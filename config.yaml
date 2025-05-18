@@ -1,0 +1,61 @@
+baseURL: https://skylerlemay.com
+languageCode: en-us
+title: Musings of Skyler Lemay
+copyright: "© Skyler Lemay"
+theme: [PaperMod]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+mainsections:
+  - posts
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+permalinks:
+  page:
+    posts: /blog/:slug
+
+params:
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowPostNavLinks: true
+  ShowAllPagesInArchive: true
+  ShowRssButtonInSectionTermList: true
+  author: "Skyler Lemay"
+  editPost:
+      URL: "https://github.com/entorenee/skyler-lemay-blog/content"
+      Text: "See a typo? Suggest a change in GitHub"
+      appendFilePath: true
