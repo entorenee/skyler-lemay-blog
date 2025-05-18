@@ -3,7 +3,7 @@ title: 'Deconstructing Identity and the Lenses of Perception'
 slug: 'deconstructing-identity-and-the-lenses-of-perception'
 draft: false
 publishDate: '2024-06-04'
-tags: []
+tags: ['gender', 'transgender']
 ---
 Identity is primarily described as an internal sense of being. My internal existence is held tightly—it was a challenging, emotional, and difficult thing to admit, explore, and ultimately claim as my own. However, identity doesn't exist in a vacuum. We are surrounded by individuals, communities, and systems which create their own taxonomies of classification. How do I acclimate to taxonomies which don't align with my nuanced reality?
 
@@ -13,7 +13,7 @@ Finally unpacking the chest of gender feelings in my mid 30s was an epic journey
 
 It is this particular dynamic that has been the epicenter of many reflections and discussions with friends and in therapy. Am I holding onto she/her pronouns because they fit me, or because it makes existing in society more palpable? Or maybe it is both with a dash of some additional unknown factors? I was talking with a friend recently about lenses of perception. They shared how seemingly discordant perspectives could all be true at the same time. I'll illustrate this with my own identity as a set of concentric circles—the outermost layers represent ways that I may be grouped into social taxonomies, where the innermost circles represent my own sense of self. Before we dive in, an important disclaimer is that this represents how I view my interactions within the world and absolutely should not be taken to represent transgender, non-binary. or gender non-conforming folx as a whole. We have suffered through society telling us who we are for our whole lives, no one gets to take that internal autonomy away from us.
 
-![A series of concentric circles with different identities at each layer](/img/lenses-of-identity.jpg)
+![A series of concentric circles with different identities at each layer](images/lenses-of-identity.jpg)
 
 The outermost circle represents how broad social systems, random strangers, and even acquaintances are likely to view and interact with me. My legal gender marker is F–although if X is wasn't rife with systemic invalidation and oppression I'd likely select that. In a world that only recognizes binary gender, congratulations you picked the right bucket. Similarly, my attraction would be labeled as lesbian when constrained to a binary system. I vehemently disagree with this system, and even more so when it is presented as two opposite groupings instead of overlapping bell curves. I regularly speak out against this system, but it is still a prevailing taxonomy in the world I exist in. It is far from the most accurate depiction of my identity, but it isn't inaccurate either. Small minded? Absolutely.
 
