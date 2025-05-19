@@ -1,12 +1,12 @@
 module:
   imports:
     - path: "github.com/mfg92/hugo-shortcode-gallery"
+    - path: "github.com/adityatelange/hugo-PaperMod"
 
 baseURL: https://skylerlemay.com
 languageCode: en-us
 title: Musings of Skyler Lemay
 copyright: "© Skyler Lemay"
-theme: ["PaperMod"]
 
 markup:
   goldmark:
