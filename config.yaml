@@ -65,10 +65,8 @@ params:
   ShowShareButtons: true
   ShowReadingTime: true
   ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
   ShowPostNavLinks: true
   ShowAllPagesInArchive: true
-  ShowRssButtonInSectionTermList: true
   author: "Skyler Lemay"
   defaultTheme: dark
   editPost:
