@@ -25,27 +25,24 @@ pagination:
   disableAliases: false
   pagerSize: 5
 
-languages:
-  en:
-    languageName: "English"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-    menu:
-      main:
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: RSS
-          url: /rss.xml
-          weight: 20
+taxonomies:
+  category: categories # TODO: Implement listing these
+  tag: tags
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: RSS
+      url: /rss.xml
+      weight: 20
 
 outputs:
   home:
@@ -62,14 +59,31 @@ permalinks:
     posts: /blog/:slug
 
 params:
+  description: "Skyler Lemay is a Senior Software Engineer who writes about technical, human skills, and sociological topics."
+  author: "Skyler Lemay"
+  keywords: ["Software Engineer", "Blog", "Athlete", "Intersectional Identities"]
   ShowShareButtons: true
   ShowReadingTime: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
   ShowAllPagesInArchive: true
-  author: "Skyler Lemay"
   defaultTheme: dark
   editPost:
       URL: "https://github.com/entorenee/skyler-lemay-blog/blob/main/content"
       Text: "See a typo? Suggest a change in GitHub"
       appendFilePath: true
+
+  homeInfoParams:
+    title: "Engineer | Mentor | Athlete | Advocate"
+    content: |
+      👋🏼 I'm Skyler, a Senior Software Engineer with a recent focus on backend architecture. I work primarily in TypeScript. I work across disciplines; we are all pushing for the same goal. I thrive when mentoring and empowering engineers to do their best work as we solve complex problems together.
+
+      I am also an endurance athlete, having cycled over 10,000km in 2024. As an openly trans and neurodivergent human, my writing is informed by my intersectional identity navigating the world. I passionately engage in universal design discussions across many aspects of life, including work.
+
+  socialIcons:
+    - name: github
+      url: https://github.com/entorenee
+    - name: linkedin
+      url: https://www.linkedin.com/in/skylerlemay/
+    - name: rss
+      url: /rss.xml
