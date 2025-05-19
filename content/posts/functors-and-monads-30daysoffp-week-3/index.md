@@ -1,12 +1,12 @@
 ---
-title: 'Functors and Monads - #30DaysofFP Week 3'
+title: 'Functors and Monads - 30DaysofFP Week 3'
 slug: 'functors-and-monads-30daysoffp-week-3'
 draft: false
 publishDate: '2019-09-03'
 category: 'Web Development'
-tags: ["#30DaysOfFP","Functional Programming"]
+tags: ["30DaysOfFP","Functional Programming"]
 ---
-![Functors and Monads - #30DaysofFP Week 3](images/abstract-water-rings.jpg#center)
+![Functors and Monads - 30DaysofFP Week 3](images/abstract-water-rings.jpg#center)
 
 Functors and monads may sound like some dark secret ingredient from the recesses of functional programming. For our purposes we will begin to approach them as data types that follow a base set of rules. In this post we will dive into working definitions for functors and monads as well as a working example tying them all together.
 

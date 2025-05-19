@@ -4,7 +4,7 @@ slug: 'the-439-day-journey-that-changed-my-life'
 draft: false
 publishDate: '2018-09-10'
 category: 'Web Development'
-tags: ["Journal","Reflections","#100DaysOfCode"]
+tags: ["Journal","Reflections","100DaysOfCode"]
 ---
 ![The 439 day Journey that Changed my Life](images/2018-08-nighttime-timelapse.jpg#center)
 

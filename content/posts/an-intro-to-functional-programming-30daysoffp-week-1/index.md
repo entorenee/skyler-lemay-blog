@@ -1,12 +1,12 @@
 ---
-title: 'An intro to Functional Programming - #30DaysofFP Week 1'
+title: 'An intro to Functional Programming - 30DaysofFP Week 1'
 slug: 'an-intro-to-functional-programming-30daysoffp-week-1'
 draft: false
 publishDate: '2019-08-12'
 category: 'Web Development'
-tags: ["Functional Programming","#30DaysOfFP"]
+tags: ["Functional Programming","30DaysOfFP"]
 ---
-![An intro to Functional Programming - #30DaysofFP Week 1](images/rope-meshwork.jpg#center)
+![An intro to Functional Programming - 30DaysofFP Week 1](images/rope-meshwork.jpg#center)
 
 1.5 weeks ago I set out to learn more about Functional Programming with a [30 day challenge](/blog/2019/08/01/30-days-of-functional-programming). I started knowing little about functional programming, apart from the various array methods within JavaScript. Kyle Simpson's [Functional Light JavaScript](https://leanpub.com/fljs) book, has been a great introduction of concepts and practical application. For those interested, the book can also be read for free on [GitHub](https://github.com/getify/Functional-Light-JS/tree/master/manuscript).
 

@@ -4,7 +4,7 @@ slug: 'a-week-in-review-100daysofcode-round-2-week-1'
 draft: false
 publishDate: '2017-12-07'
 category: 'Web Development'
-tags: ["#100DaysOfCode","Journal"]
+tags: ["100DaysOfCode","Journal"]
 ---
 The second round of 100 Days of Code officially began for me on November 25, 2017. [The first one](/blog/top-5-things-i-took-away-from-completing-100daysofcode) was a fantastic success and a valuable tool for my growth and learning trajectory. The continued dedication and motivation to consistently be moving forward has brought me farther than I anticipated in a short period of time. Before starting this next round, I thought of some specific ideas and goals that I hope to reach.
 

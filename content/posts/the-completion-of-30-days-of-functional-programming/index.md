@@ -4,7 +4,7 @@ slug: 'the-completion-of-30-days-of-functional-programming'
 draft: false
 publishDate: '2019-09-05'
 category: 'Web Development'
-tags: ["#30DaysofFP","Functional Programming"]
+tags: ["30DaysofFP","Functional Programming"]
 ---
 ![The Completion of 30 Days of Functional Programming](images/foggy-lake-tree-reflection.jpg#center)
 
@@ -24,14 +24,14 @@ There were a few things that could have gone better or are good to know for next
 
 During the past 30 days, I gained a working knowledge of the following concepts and more:
 
-- [An intro to Functional Programming -#30DaysofFP Week 1](/blog/2019/08/12/an-intro-to-functional-programming-30daysoffp-week-1)
+- [An intro to Functional Programming -30DaysofFP Week 1](/blog/2019/08/12/an-intro-to-functional-programming-30daysoffp-week-1)
     - Functional Composition
     - Pointfree programming
     - A better grasp of currying and partial application
-- [What is a Side Effect Anyway? - #30DaysofFP Week 2](/blog/2019/08/19/what-is-a-side-effect-anyway-30daysoffp-week-2)
+- [What is a Side Effect Anyway? - 30DaysofFP Week 2](/blog/2019/08/19/what-is-a-side-effect-anyway-30daysoffp-week-2)
     - Side effects and side causes
     - Functional purity, including encapsulating side effects to the call site
-- [Functors and Monads - #30DaysofFP Week 3](/blog/2019/09/03/functors-and-monads-30daysoffp-week-3)
+- [Functors and Monads - 30DaysofFP Week 3](/blog/2019/09/03/functors-and-monads-30daysoffp-week-3)
     - What comprises a functor or a monad
     - Benefit of the `Maybe` type
     - Deferred application of promises using the `Async` type
