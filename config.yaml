@@ -32,7 +32,6 @@ languages:
     taxonomies:
       category: categories
       tag: tags
-      series: series
     menu:
       main:
         - name: Archive
@@ -44,12 +43,19 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+        - name: RSS
+          url: /rss.xml
+          weight: 20
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+
+outputFormats:
+  rss:
+    baseName: rss
 
 permalinks:
   page:
@@ -64,6 +70,7 @@ params:
   ShowAllPagesInArchive: true
   ShowRssButtonInSectionTermList: true
   author: "Skyler Lemay"
+  defaultTheme: dark
   editPost:
       URL: "https://github.com/entorenee/skyler-lemay-blog/content"
       Text: "See a typo? Suggest a change in GitHub"
