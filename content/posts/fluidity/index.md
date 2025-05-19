@@ -3,7 +3,7 @@ title: 'Fluidity'
 slug: 'fluidity'
 draft: false
 publishDate: '2025-04-29'
-tags: ["poetry", "gender"]
+tags: ["Poetry", "Gender"]
 ---
 {{< figure
   src="images/pexels-anniroenkae-3109808.jpg"

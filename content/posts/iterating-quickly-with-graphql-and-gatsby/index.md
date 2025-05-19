@@ -4,7 +4,7 @@ slug: 'iterating-quickly-with-graphql-and-gatsby'
 draft: false
 publishDate: '2019-03-11'
 category: 'Web Development'
-tags: ["GraphQL","Gatsby","tooling"]
+tags: ["GraphQL","Gatsby","Tooling"]
 ---
 ![Iterating Quickly with GraphQL and Gatsby](images/geometric-triangles.jpg#center)
 

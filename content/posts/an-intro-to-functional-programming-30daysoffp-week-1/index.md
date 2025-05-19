@@ -4,7 +4,7 @@ slug: 'an-intro-to-functional-programming-30daysoffp-week-1'
 draft: false
 publishDate: '2019-08-12'
 category: 'Web Development'
-tags: ["Functional Programming","#30DaysofFP"]
+tags: ["Functional Programming","#30DaysOfFP"]
 ---
 ![An intro to Functional Programming - #30DaysofFP Week 1](images/rope-meshwork.jpg#center)
 

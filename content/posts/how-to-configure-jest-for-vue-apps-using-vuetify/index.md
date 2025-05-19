@@ -4,7 +4,7 @@ slug: 'how-to-configure-jest-for-vue-apps-using-vuetify'
 draft: false
 publishDate: '2019-10-09'
 category: 'Web Development'
-tags: ["Vue","Today I Learned","testing"]
+tags: ["Vue","Today I Learned","Testing"]
 ---
 ![How to Configure Jest for Vue apps Using Vuetify](images/abstract-pink-blue-connections.jpg#center)
 

@@ -4,7 +4,7 @@ slug: 'a-juxtaposition-of-social-experiences'
 description: "How it feels to finally be at home in my body"
 draft: false
 publishDate: '2025-05-07'
-tags: ["neurodiversity", "transgender", "gender"]
+tags: ["Neurodiversity", "Transgender", "Gender"]
 ---
 {{< figure
   src="images/baby-fern.jpeg"

@@ -4,7 +4,7 @@ slug: 'how-allyship-shaped-my-participation-in-sports'
 draft: false
 publishDate: '2024-06-11'
 summary: "It took a lot of internal reflection and discussions to recognize that my improving performance was due to the fact that I was steadily, and somewhat aggressively, increasing my training load. In retrospect, this seems obvious and the clearest answer, but the claws of societal transphobia had latched on deep."
-tags: ['cycling', 'transgender']
+tags: ['Cycling', 'Transgender']
 ---
 ![Close up of a cyclist leg with a tattoo on the calf combining the trans symbol and a bike cog. Caption: It took a lot of internal reflection and discussions to recognize that my improving performance was due to the fact that I was steadily, and somewhat aggressively, increasing my training load. In retrospect, this seems obvious and the clearest answer, but the claws of societal transphobia had latched on deep.](images//cycling-tattoo-with-quote.jpg)
 

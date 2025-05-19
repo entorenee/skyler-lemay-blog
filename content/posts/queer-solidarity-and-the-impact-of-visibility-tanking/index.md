@@ -3,7 +3,7 @@ title: 'Queer Solidarity and the Impact of Visibility Tanking'
 slug: 'queer-solidarity-and-the-impact-of-visibility-tanking'
 draft: false
 publishDate: '2025-01-13'
-tags: ['history', 'transgender', 'gender']
+tags: ['History', 'Transgender', 'Gender']
 ---
 {{< figure
   src="images/kitty-donor.jpeg"

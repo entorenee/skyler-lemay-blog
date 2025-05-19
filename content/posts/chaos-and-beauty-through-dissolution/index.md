@@ -4,7 +4,7 @@ slug: 'chaos-and-beauty-through-dissolution'
 description: "How I've never been more wrong about a statement than I was 3 years ago and am forever grateful"
 draft: false
 publishDate: '2025-03-20'
-tags: ["gender", "transgender"]
+tags: ["Gender", "Transgender"]
 ---
 {{< figure
   src="images/tesseract.jpeg"

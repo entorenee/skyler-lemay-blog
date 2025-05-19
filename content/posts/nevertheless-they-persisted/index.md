@@ -3,7 +3,7 @@ title: 'Nevertheless They Persisted'
 slug: 'nevertheless-they-persisted'
 draft: false
 publishDate: '2025-01-30'
-tags: ["gender", "transgender", "history"]
+tags: ["Gender", "Transgender", "History"]
 ---
 {{< figure
   src="images/pain-graphic.jpg"
