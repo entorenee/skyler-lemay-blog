@@ -4,7 +4,7 @@ slug: 'embarking-on-the-year-of-creation'
 draft: false
 publishDate: '2020-12-29'
 category: 'General Musings'
-tags: ["Reflections","Themes","Creativity"]
+tags: ["Reflections","Themes","Creativity","Productivity","Goal Setting","Personal Growth","Writing"]
 ---
 ![Embarking on the Year of Creation](images/dandelion-seed-distribution.jpg#center)
 

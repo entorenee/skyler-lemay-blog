@@ -4,7 +4,7 @@ slug: 'intersectional-survival'
 description: "What other option is there?"
 draft: false
 publishDate: '2025-03-29'
-tags: ["Transgender", "Autism", "Poetry", "Neurodiversity"]
+tags: ["Transgender", "Autism", "Poetry", "Neurodiversity", "Mental Health", "Self Care", "Identity"]
 ---
 I look in the mirror and wonder\
 How can so little be done\
