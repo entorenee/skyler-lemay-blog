@@ -4,7 +4,7 @@ slug: 'completing-simon-game-and-my-front-end-certification'
 draft: false
 publishDate: '2017-08-27'
 categories: ['Web Development']
-tags: ['Journal', 'Projects', 'React', 'FreeCodeCamp', 'Learning Journey', 'Web Development Challenges']
+tags: ['Projects', 'React', 'Learning', 'Web Development']
 ---
 ![Simon Game](images/2017-08-simon-game.jpg#center)
 

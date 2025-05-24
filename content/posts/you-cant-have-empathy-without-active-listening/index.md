@@ -4,7 +4,7 @@ slug: 'you-can-t-have-empathy-without-active-listening'
 draft: false
 publishDate: '2020-12-15'
 categories: ['General Musings']
-tags: ["Psychological Safety","Vulnerability","Empathy"]
+tags: ["Psychological Safety"]
 ---
 ![You Can't Have Empathy without Active Listening](images/watch-listen-reflect-bench.jpg#center)
 

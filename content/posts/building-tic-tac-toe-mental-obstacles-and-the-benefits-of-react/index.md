@@ -4,7 +4,7 @@ slug: 'building-tic-tac-toe-mental-obstacles-and-the-benefits-of-react'
 draft: false
 publishDate: '2017-08-22'
 categories: ['Web Development']
-tags: ['Journal', 'Projects']
+tags: ['Projects']
 ---
 ![Tic Tac Toe Game Interface](images/2017-08-tic-tac-toe-v1.jpg#center)
 

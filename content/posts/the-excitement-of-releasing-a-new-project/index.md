@@ -4,7 +4,7 @@ slug: 'the-excitement-of-releasing-a-new-project'
 draft: false
 publishDate: '2017-06-14'
 categories: ['Web Development']
-tags: ['Journal', 'Projects']
+tags: ['Projects']
 ---
 ![](images/2017-06-twitch-code.jpg)
 It is always an exciting day to release a new project into the wild. After a week of active development, and a couple days doing minor tweaks, I'm happy to have my Twitch Viewer project live. This particular project was an interesting development in my skills with Javascript particularly. It was the first time that I dynamically created a Javascript object for a myriad of users based off of data polled from multiple API calls. After finally figuring out the constructor function the rest of the project built out quickly within a couple days. What was the most difficult challenge for me, was dealing with the asynchronous population of the object data, due to the API calls, and when to call the displayUsers function.

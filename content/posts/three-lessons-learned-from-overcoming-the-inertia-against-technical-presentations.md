@@ -4,7 +4,7 @@ slug: 'three-lessons-learned-from-overcoming-the-inertia-against-technical-prese
 draft: false
 publishDate: '2018-05-17'
 categories: ['Web Development']
-tags: ["Reflections","Journal"]
+tags: ["Reflections"]
 ---
 > You don’t need to be an expert to teach others, even teaching people who have more overall experience than you do. The matter that someone has a wider breath of experience overall does not equate to knowing a particular system in depth.
 

@@ -4,7 +4,7 @@ slug: 'pragmatic-uses-for-react-context'
 draft: false
 publishDate: '2019-07-24'
 categories: ['Web Development']
-tags: ["React","React Hooks","Component Architecture","Localization","Prop Drilling"]
+tags: ["React","React Hooks"]
 ---
 ![Pragmatic uses for React Context](images/chains-perspective.jpg#center)
 

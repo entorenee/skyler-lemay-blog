@@ -4,7 +4,7 @@ slug: 'conceptualizing-and-creating-a-new-portfolio'
 draft: false
 publishDate: '2018-02-13'
 categories: ['Web Development']
-tags: ["Journal","Projects","React","Gatsby","GraphQL"]
+tags: ["Projects","React","Gatsby","GraphQL"]
 ---
 ![Conceptualizing and Creating a New Portfolio](images/2018-02-website-hero.jpg#center)
 

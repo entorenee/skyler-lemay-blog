@@ -4,7 +4,7 @@ slug: 'top-5-things-i-took-away-from-completing-100daysofcode'
 draft: false
 publishDate: '2017-11-27'
 categories: ['Web Development']
-tags: ["Journal","100DaysOfCode","Learning","Programming","Habit Formation","Community"]
+tags: ["100DaysOfCode","Learning","Habit Building","Community"]
 ---
 ![Top 5 Things I took away from Completing #100DaysOfCode](images/2017-11-github-commits.jpg#center)
 

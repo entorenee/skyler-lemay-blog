@@ -4,7 +4,7 @@ slug: 'what-mistakes-did-you-make-this-sprint'
 draft: false
 publishDate: '2020-12-11'
 categories: ['General Musings']
-tags: ["Scrum","Team Health","Psychological Safety","Vulnerability","Retrospectives","Continuous Improvement","Agile"]
+tags: ["Team Health","Psychological Safety","Retrospectives","Personal Growth","Agile and Scrum"]
 ---
 ![What Mistakes did you Make This Sprint?](images/together-painting.jpg#center)
 

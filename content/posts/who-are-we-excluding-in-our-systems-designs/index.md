@@ -4,7 +4,7 @@ slug: who-are-we-excluding-in-our-systems-designs
 draft: false
 publishDate: 2025-05-22
 categories: []
-tags: ["Accessibility", "Inclusivity", "Ethics", "Systems Design"]
+tags: ["Accessibility", "Inclusion", "Ethics", "Systems Design", "AI"]
 ---
 {{< figure
   src="images/multicolored-containers.jpg"
@@ -44,6 +44,7 @@ The concept of structural systems of exclusion and oppression aren't anything ne
 * And so much more.
 
 I'm only 70 pages into Dr. Joy Boulamwini's amazing book. It highlights how the seemingly innocuous problems in current systems can have far greater concerns, including matters of life and death. Machine learning models which determine the existence or absence of a face may not seem too impactful. However, it points to a larger problem under the surface. Our systems are built by those in power, and inherently seek to maintain the status quo of their retention of power. Human life and experiences are reduced to a dollar figure. An acceptable form of collateral damage. Boulamwini identifies what happens for cases where the stakes are much higher. What happens when a machine learning model which seeks to identify civilians from militants is wrong? How does the increased usage of tools like this and others decenter the human costs of war and violence? The United Nations recently passed a resolution against [autonomous weapons systems](https://www.stopkillerrobots.org/news/161-states-vote-against-the-machine-at-the-un-general-assembly/). The resolution raised concerns such as "negative consequences and impact of autonomous weapon systems on global security and regional and international stability, including the risk of an emerging arms race, of exacerbating existing conflicts and humanitarian crises, miscalculations, lowering the threshold for and escalation of conflicts and proliferation, including to unauthorised recipients and non-State actors" amidst other things.
+
 ## Those are all Big Problems, Where do I have Agency?
 Anecdotally, as someone who lives within systems which seek to marginalize me across multiple axes, a common question is what agency do I have about things? I'm not in the room where decisions are being made. My representatives aren't ones who are pushing for stripping away my rights and humanity as a trans and queer woman. I live in a _progressive state_—I'm going to leave that commentary to the side. What can I do? I can still call my representatives and inform them of how current actions limit my travel and impact me. This is important work. I'd also argue that the foundation of systems can be approached from a more granular level.
 

@@ -4,7 +4,7 @@ slug: '100daysofcode-week-2-3'
 draft: false
 publishDate: '2017-08-29'
 categories: ['Web Development']
-tags: ['Journal', 'Projects']
+tags: ['Projects']
 ---
 > The importance of community and helping other developers cannot be emphasized enough. There is so much to be gained by spending time with other developers, sharing each other's challenges, and assisting where applicable and requested.
 

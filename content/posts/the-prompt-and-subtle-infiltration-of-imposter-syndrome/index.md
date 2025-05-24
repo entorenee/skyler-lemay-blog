@@ -4,7 +4,7 @@ slug: 'the-prompt-and-subtle-infiltration-of-imposter-syndrome'
 draft: false
 publishDate: '2017-06-02'
 categories: ['Web Development']
-tags: ['Journal']
+tags: []
 ---
 ![Computer and coffee](images/2017-05-computer-coffee.jpg)
 

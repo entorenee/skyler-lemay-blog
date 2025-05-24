@@ -4,7 +4,7 @@ slug: 'the-importance-of-creating-psychological-safety'
 draft: false
 publishDate: '2020-12-07'
 categories: ['General Musings']
-tags: ["Psychological Safety","Team Health","Leadership","Organizational Culture","Workplace Dynamics"]
+tags: ["Psychological Safety","Team Health","Leadership","Organizational Culture"]
 ---
 ![The Importance of Creating Psychological Safety](images/oceanside-stacked-rocks.jpg#center)
 

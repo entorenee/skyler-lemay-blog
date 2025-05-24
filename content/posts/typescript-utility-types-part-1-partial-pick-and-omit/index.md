@@ -4,7 +4,7 @@ slug: 'typescript-utility-types-part-1-partial-pick-and-omit'
 draft: false
 publishDate: '2020-04-27'
 categories: ['Web Development']
-tags: ["TypeScript","TypeScript Generics","JavaScript","Type Systems","Code Patterns","React Testing"]
+tags: ["TypeScript","TypeScript Generics"]
 ---
 ![TypeScript Utility Types Part 1: Partial, Pick, and Omit](images/compass-with-leather-notebook.jpg#center)
 
