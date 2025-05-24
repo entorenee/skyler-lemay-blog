@@ -26,7 +26,7 @@ pagination:
   pagerSize: 5
 
 taxonomies:
-  category: categories # TODO: Implement listing these
+  category: categories
   tag: tags
 
 menu:
@@ -34,12 +34,15 @@ menu:
     - name: Archive
       url: archives
       weight: 5
-    - name: Search
-      url: search/
+    - name: Categories
+      url: categories/
       weight: 10
     - name: Tags
       url: tags/
       weight: 10
+    - name: Search
+      url: search/
+      weight: 15
     - name: RSS
       url: /rss.xml
       weight: 20

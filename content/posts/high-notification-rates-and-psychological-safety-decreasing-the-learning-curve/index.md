@@ -3,7 +3,7 @@ title: 'High Notification Rates and Psychological Safety: Decreasing the Learnin
 slug: 'high-notification-rates-and-psychological-safety-decreasing-the-learning-curve'
 draft: false
 publishDate: '2020-12-22'
-category: 'General Musings'
+categories: ['General Musings']
 tags: ["Team Dynamics","Team Health","Psychological Safety"]
 ---
 ![High Notification Rates and Psychological Safety: Decreasing the Learning Curve](images/vintage-telephones.jpg#center)

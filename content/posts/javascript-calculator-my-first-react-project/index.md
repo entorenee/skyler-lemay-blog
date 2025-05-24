@@ -3,7 +3,7 @@ title: 'JavaScript Calculator: my First React Project'
 slug: 'javascript-calculator-my-first-react-project'
 draft: false
 publishDate: '2017-08-06'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ['Journal', 'Projects']
 ---
 ![JavaScript Calculator](images/2017-08-javascript-calculator-v1.jpg)

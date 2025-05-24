@@ -3,7 +3,7 @@ title: Who Are We Excluding in Our Systems Designs
 slug: who-are-we-excluding-in-our-systems-designs
 draft: false
 publishDate: 2025-05-22
-category: ""
+categories: []
 tags: ["Accessibility", "Inclusivity", "Ethics", "Systems Design"]
 ---
 {{< figure

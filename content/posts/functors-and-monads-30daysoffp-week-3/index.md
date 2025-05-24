@@ -3,7 +3,7 @@ title: 'Functors and Monads - 30DaysofFP Week 3'
 slug: 'functors-and-monads-30daysoffp-week-3'
 draft: false
 publishDate: '2019-09-03'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ["30DaysOfFP","Functional Programming","JavaScript","Monads","Functors","FP Theory"]
 ---
 ![Functors and Monads - 30DaysofFP Week 3](images/abstract-water-rings.jpg#center)

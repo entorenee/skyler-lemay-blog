@@ -3,7 +3,7 @@ title: '#100DaysOfCode Round 2, Week 5'
 slug: '100daysofcode-round-2-week-5'
 draft: false
 publishDate: '2018-01-15'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ['100DaysOfCode', 'Journal']
 ---
 > The true benefit of converting the logic to a HOC came to light quickly when I started to create the quote slideshow component—it was a simple and efficient process. The creation of the HOC enabled me to reuse all of the logic and keep the component's code dry.

@@ -3,7 +3,7 @@ title: 'The Excitement of Releasing a New Project'
 slug: 'the-excitement-of-releasing-a-new-project'
 draft: false
 publishDate: '2017-06-14'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ['Journal', 'Projects']
 ---
 ![](images/2017-06-twitch-code.jpg)

@@ -3,7 +3,7 @@ title: 'The Start of #100DaysOfCode'
 slug: 'the-start-of-100daysofcode'
 draft: false
 publishDate: '2017-08-07'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ['100DaysOfCode', 'Journal']
 ---
 > The act of monitoring waypoints and milestones is important to recognize and celebrate.

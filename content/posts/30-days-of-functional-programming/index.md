@@ -3,7 +3,7 @@ title: '30 Days of Functional Programming'
 slug: '30-days-of-functional-programming'
 draft: false
 publishDate: '2019-08-01'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ["Reflections","Functional Programming","30DaysofFP","Learning Strategies","Habit Building","Personal Development"]
 ---
 ![30 Days of Functional Programming](images/library-hanging-bulbs.jpg#center)

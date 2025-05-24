@@ -3,7 +3,7 @@ title: 'Community Influence when Building a Habit'
 slug: 'community-influence-when-building-a-habit'
 draft: false
 publishDate: '2020-12-23'
-category: 'General Musings'
+categories: ['General Musings']
 tags: ["Reflections","Community"]
 ---
 ![Community Influence when Building a Habit](images/together-we-create.jpg#center)

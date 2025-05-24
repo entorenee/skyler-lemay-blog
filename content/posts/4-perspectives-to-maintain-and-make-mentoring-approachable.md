@@ -3,7 +3,7 @@ title: '4 Perspectives to Maintain and make Mentoring Approachable'
 slug: '4-perspectives-to-maintain-and-make-mentoring-approachable'
 draft: false
 publishDate: '2018-12-03'
-category: 'General Musings'
+categories: ['General Musings']
 tags: ["Reflections","Mentoring"]
 ---
 > When we embrace the concept of skillset diversity amongst disciplines, it provides opportunity for people to share knowledge and teach others irrespective of *years of experience*.

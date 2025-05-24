@@ -3,7 +3,7 @@ title: 'Pragmatic Lessons from Converting to React Hooks'
 slug: 'pragmatic-lessons-from-converting-to-react-hooks'
 draft: false
 publishDate: '2019-02-06'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ["React","Projects","React Hooks","Gatsby","Refactoring","State Management","Performance"]
 ---
 ![Pragmatic Lessons from Converting to React Hooks](images/2019-02-hooks-diff.jpg#center)

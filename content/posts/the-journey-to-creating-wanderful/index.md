@@ -3,7 +3,7 @@ title: 'The Journey to Creating Wanderful'
 slug: 'the-journey-to-creating-wanderful'
 draft: false
 publishDate: '2017-11-21'
-category: 'Web Development'
+categories: ['Web Development']
 tags: ["Journal","Reflections","Projects"]
 ---
 ![The Journey to Creating Wanderful](images/2017-11-wanderful-v1.jpg#center)

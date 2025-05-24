@@ -3,7 +3,7 @@ title: 'Linked List - 20190822'
 slug: 'linked-list-20190822'
 draft: false
 publishDate: '2019-08-22'
-category: 'Linked List'
+categories: ['Linked List']
 tags: ["Accessibility","React Hooks","TypeScript"]
 ---
 The Linked List is a collection of interesting articles that I have recently read and found beneficial. Today's links cover web accessibility, TypeScript adoption, and React Hooks.
