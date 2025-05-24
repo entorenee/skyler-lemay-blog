@@ -27,6 +27,7 @@ pagination:
 
 taxonomies:
   category: categories
+  series: series
   tag: tags
 
 menu:
@@ -34,6 +35,9 @@ menu:
     - name: Archive
       url: archives
       weight: 5
+    - name: Series
+      url: series
+      weight: 7
     - name: Categories
       url: categories/
       weight: 10

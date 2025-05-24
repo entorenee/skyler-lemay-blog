@@ -4,7 +4,8 @@ slug: '100daysofcode-round-2-weeks-3-and-4'
 draft: false
 publishDate: '2017-12-30'
 categories: ['Web Development']
-tags: ["100DaysOfCode"]
+tags: []
+series: ['100 Days of Code']
 ---
 ![#100DaysOfCode Round 2, Weeks 3 and 4](images/2017-12-project-carousel.jpg#center)
 
