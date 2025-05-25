@@ -64,3 +64,14 @@ This is a Hugo static site generator blog using the PaperMod theme with several 
 ## Content Taxonomy
 
 Reference @.claude/tag-taxonomy.json for complete tag taxonomy when applying tags to posts. Contains 46 unique tags with usage counts and categorization by topic (technical, personal, workplace, learning, accessibility, projects). Use this to maintain consistency and discover related tags.
+
+### Tag Capitalization Rules
+- Use kebab-case format for multi-word tags
+- Technology names and acronyms should use proper capitalization:
+  - `JavaScript` (not `javascript`)
+  - `TypeScript` (not `typescript`) 
+  - `GraphQL` (not `graphql`)
+  - `CSS` (not `css`)
+  - `AI` (not `ai`)
+- Compound technical tags maintain proper capitalization: `TypeScript-generics`
+- General concept tags remain lowercase: `tooling`, `accessibility`, `learning`

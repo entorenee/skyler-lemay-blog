@@ -4,7 +4,7 @@
     "totalTagUsages": 160,
     "averageTagsPerPost": 2.35,
     "lastUpdated": "2025-01-25",
-    "note": "All tags converted to kebab-case format with consistent lowercase"
+    "note": "All tags use kebab-case format with proper capitalization for technology names and acronyms"
   },
   "tags": {
     "mostUsed": {
@@ -23,16 +23,16 @@
       "learning": 5
     },
     "moderatelyUsed": {
-      "typescript": 4,
+      "TypeScript": 4,
       "personal-growth": 4,
       "today-i-learned": 3,
-      "graphql": 3,
-      "javascript": 3,
+      "GraphQL": 3,
+      "JavaScript": 3,
       "poetry": 3,
       "retrospectives": 3,
       "react-hooks": 3,
       "gatsby": 3,
-      "typescript-generics": 3,
+      "TypeScript-generics": 3,
       "testing": 3,
       "linting": 3,
       "community": 3,
@@ -48,7 +48,7 @@
       "code-quality": 2,
       "themes": 2,
       "productivity": 2,
-      "ai": 2,
+      "AI": 2,
       "refactoring": 2,
       "habit-building": 2,
       "cycling": 2,
@@ -57,16 +57,16 @@
       "mental-health": 1,
       "ultra-endurance": 1,
       "ride-report": 1,
-      "css": 1,
+      "CSS": 1,
       "organizational-culture": 1,
       "ethics": 1
     }
   },
   "categories": {
     "technical": [
-      "react", "typescript", "javascript", "graphql", "gatsby", "react-hooks", 
-      "typescript-generics", "testing", "linting", "web-development", "css", 
-      "tooling", "npm", "code-quality", "ai", "refactoring"
+      "react", "TypeScript", "JavaScript", "GraphQL", "gatsby", "react-hooks", 
+      "TypeScript-generics", "testing", "linting", "web-development", "CSS", 
+      "tooling", "npm", "code-quality", "AI", "refactoring"
     ],
     "personal": [
       "reflections", "transgender", "gender", "personal-growth", "neurodiversity", 
