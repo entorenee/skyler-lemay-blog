@@ -3,7 +3,7 @@ title: 'TailwindCSS: From Skeptic to Advocate'
 slug: 'tailwindcss-from-skeptic-to-advocate'
 draft: false
 publishDate: '2020-05-18'
-categories: ['Web Development']
+categories: ['Technical']
 tags: ["CSS","tooling","systems-design"]
 ---
 ![TailwindCSS: From Skeptic to Advocate](images/abstract-blue-peach-ripples.jpg#center)

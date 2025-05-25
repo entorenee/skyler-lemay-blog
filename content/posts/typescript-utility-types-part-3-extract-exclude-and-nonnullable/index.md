@@ -3,7 +3,7 @@ title: 'TypeScript Utility Types Part 3: Extract, Exclude, and NonNullable'
 slug: 'typescript-utility-types-part-3-extract-exclude-and-nonnullable'
 draft: false
 publishDate: '2020-05-25'
-categories: ['Web Development']
+categories: ['Technical']
 tags: ["TypeScript","TypeScript-generics"]
 series: ["Diving into TypeScript Generics"]
 ---

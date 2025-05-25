@@ -78,9 +78,16 @@ Reference @.claude/tag-taxonomy.json for complete tag taxonomy when applying tag
 - General concept tags remain lowercase: `tooling`, `accessibility`, `learning`
 
 ### Categories
-Reference @.claude/category-taxonomy.json for the category structure when categorizing posts. Contains 3 main categories:
-- **Web Development** (72% of posts): Technical content covering programming, tools, frameworks, and development practices
-- **General Musings** (24% of posts): Personal reflections, thoughts on life, career, identity, and non-technical topics  
-- **Linked List** (3% of posts): Curated link collections and resource roundups
+Reference @.claude/category-taxonomy.json for the category structure when categorizing posts. The taxonomy has been updated to an 8-category system for better content discoverability:
 
-Categories use title case format and are stored as arrays in frontmatter.
+#### Recommended Category Structure
+- **Technical**: Pure technical tutorials, how-tos, tool guides
+- **Projects**: Project showcases, builds, creation stories  
+- **Career Development**: Professional growth, workplace skills, leadership
+- **Personal Growth**: Self-reflection, identity exploration, life lessons
+- **Learning & Challenges**: Structured learning experiences, coding challenges
+- **Sports & Recreation**: Physical activities, cycling, endurance sports
+- **Creative Writing**: Poetry, artistic expression
+- **Resources**: Curated collections, link roundups
+
+Categories use title case format and are stored as arrays in frontmatter. Each post should have exactly one category for optimal information architecture.

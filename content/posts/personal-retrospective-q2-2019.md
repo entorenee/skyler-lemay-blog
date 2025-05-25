@@ -3,7 +3,7 @@ title: 'Personal Retrospective: Q2 2019'
 slug: 'personal-retrospective-q2-2019'
 draft: false
 publishDate: '2019-08-05'
-categories: ['General Musings']
+categories: ['Personal Growth']
 tags: ["reflections","retrospectives"]
 ---
 Retrospectives, when done well, can have a great impact on team environments and allow for various adjustments. These checkins become pivoting and adapting catalysts. Recently, I have been doing some self exploration leading to the desire for more [focused learning](/blog/2019/08/01/30-days-of-functional-programming). In talking with other developers and taking inspiration from [Jason Lengstorf](https://lengstorf.com/2019-q1-retrospective/), I have decided to take on quarterly personal retrospectives.

@@ -3,7 +3,7 @@ title: 'Better Dependency Management Using Renovate'
 slug: 'better-dependency-management-using-renovate'
 draft: false
 publishDate: '2019-11-18'
-categories: ['Web Development']
+categories: ['Technical']
 tags: ["tooling","npm","productivity","code-quality","JavaScript"]
 ---
 ![Better Dependency Management Using Renovate](images/shipping-crates-stacked.jpg#center)

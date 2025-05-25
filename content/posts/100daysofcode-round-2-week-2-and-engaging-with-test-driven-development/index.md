@@ -3,7 +3,7 @@ title: '#100DaysOfCode Round 2, Week 2 and Engaging with Test Driven Development
 slug: '100daysofcode-round-2-week-2-and-engaging-with-test-driven-development'
 draft: false
 publishDate: '2017-12-16'
-categories: ['Web Development']
+categories: ['Learning & Challenges']
 tags: []
 series: ['100 Days of Code']
 ---

@@ -3,7 +3,7 @@ title: 'A Week in Review: #100DaysOfCode Round 2, Week 1'
 slug: 'a-week-in-review-100daysofcode-round-2-week-1'
 draft: false
 publishDate: '2017-12-07'
-categories: ['Web Development']
+categories: ['Learning & Challenges']
 tags: []
 series: ['100 Days of Code']
 ---

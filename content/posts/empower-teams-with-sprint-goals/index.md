@@ -3,7 +3,7 @@ title: 'Empower Teams with Sprint Goals'
 slug: 'empower-teams-with-sprint-goals'
 draft: false
 publishDate: '2020-11-25'
-categories: ['General Musings']
+categories: ['Career Development']
 tags: ["agile-and-scrum","team-health"]
 ---
 ![Empower Teams with Sprint Goals](images/bullet-journal-planning.jpg#center)

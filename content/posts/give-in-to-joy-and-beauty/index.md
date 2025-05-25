@@ -3,7 +3,7 @@ title: 'Give in to Joy and Beauty'
 slug: 'give-in-to-joy-and-beauty'
 draft: false
 publishDate: '2017-06-23'
-categories: ['General Musings']
+categories: ['Personal Growth']
 tags: ['Reflections']
 ---
 ![Hamilton Mountain](images/2017-06-hamilton-mountain.jpg)

@@ -3,7 +3,7 @@ title: '#100DaysOfCode Week 2 & 3'
 slug: '100daysofcode-week-2-3'
 draft: false
 publishDate: '2017-08-29'
-categories: ['Web Development']
+categories: ['Learning & Challenges']
 tags: ['Projects']
 series: ['100 Days of Code']
 ---

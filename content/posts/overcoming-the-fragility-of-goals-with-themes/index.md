@@ -3,7 +3,7 @@ title: 'Overcoming the Fragility of Goals with Themes'
 slug: 'overcoming-the-fragility-of-goals-with-themes'
 draft: false
 publishDate: '2020-11-30'
-categories: ['General Musings']
+categories: ['Personal Growth']
 tags: ["reflections","themes"]
 ---
 ![Overcoming the Fragility of Goals with Themes](images/people-light-exhibit.jpg#center)

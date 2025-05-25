@@ -3,7 +3,7 @@ title: 'Shaping JavaScript Usage with ESLint'
 slug: 'shaping-javascript-usage-with-eslint'
 draft: false
 publishDate: '2019-05-23'
-categories: ['Web Development']
+categories: ['Technical']
 tags: ["tooling","linting","accessibility"]
 ---
 ![Shaping JavaScript Usage with ESLint](images/shaping-pottery.jpg#center)

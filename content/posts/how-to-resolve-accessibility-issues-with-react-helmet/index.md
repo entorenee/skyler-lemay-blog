@@ -3,7 +3,7 @@ title: 'How to Resolve Accessibility Issues with React Helmet'
 slug: 'how-to-resolve-accessibility-issues-with-react-helmet'
 draft: false
 publishDate: '2019-05-28'
-categories: ['Web Development']
+categories: ['Technical']
 tags: ["react","accessibility"]
 ---
 ![How to Resolve Accessibility Issues with React Helmet](images/book-reading-with-coffee.jpg#center)
