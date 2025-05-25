@@ -4,7 +4,7 @@ slug: 'things-dont-always-make-sense'
 draft: false
 publishDate: '2025-05-12'
 categories: ["Creative Writing"]
-tags: ["poetry"]
+tags: ['poetry', 'community']
 ---
 Things don't always make sense. People are impacted by painful circumstances differently. They manifest in different ways. Our communities still come together.
 

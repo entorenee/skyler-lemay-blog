@@ -35,23 +35,30 @@ This guide provides a systematic approach for applying categories and tags to bl
 5. **Confirm single-use tags**: If only one post will have a new tag, ask for explicit confirmation before proceeding
 
 ### Tag Guidelines:
+- **CRITICAL**: Never duplicate the post's category as a tag (e.g., if category is "Personal Growth", don't use "personal-growth" tag)
 - Use kebab-case format for multi-word tags
 - Technology names use proper capitalization: `JavaScript`, `TypeScript`, `GraphQL`, `CSS`, `AI`
 - Compound technical tags maintain proper capitalization: `TypeScript-generics`
 - General concept tags remain lowercase: `tooling`, `accessibility`, `learning`
-- Average 2.35 tags per post
+- Average 2.35 tags per post (aim for 2-4 tags per post)
 
 ### Tag Usage Frequency:
-- **Most Used (10+ posts)**: `reflections`, `projects`, `tooling`
+- **Most Used (10+ posts)**: `reflections`, `tooling`
 - **Frequently Used (5-8 posts)**: `transgender`, `gender`, `team-health`, `accessibility`, `psychological-safety`, `react`, `functional-programming`, `learning`
-- **Moderately Used (3-4 posts)**: `TypeScript`, `personal-growth`, `today-i-learned`, etc.
+- **Moderately Used (3-4 posts)**: `TypeScript`, `today-i-learned`, `GraphQL`, `JavaScript`, `poetry`, `retrospectives`, `react-hooks`, `gatsby`, `TypeScript-generics`, `testing`, `linting`, `community`, `creativity`, `systems-design`
 - **Less Common (1-2 posts)**: Various specialized tags
+
+### Common Tag Combinations by Category:
+- **Technical posts**: Often include `tooling`, `testing`, `linting`, specific technologies (`react`, `TypeScript`, `JavaScript`)
+- **Personal Growth posts**: Often include `reflections`, may include `learning`, `neurodiversity`, `transgender`, `gender`
+- **Projects posts**: Often include technology tags (`react`, `JavaScript`, `gatsby`), `learning`
+- **Career Development posts**: Often include `team-health`, `psychological-safety`, `leadership`, `retrospectives`
+- **Identity & Intersectionality posts**: Often include `transgender`, `gender`, may include `reflections`, `neurodiversity`
 
 ## After Completion
 
 1. **Update taxonomies**: Update `tag-taxonomy.json` and `category-taxonomy.json` if new terms were added
-2. **Update documentation**: Update `CLAUDE.md` if taxonomy structure changes were made
-3. **Verify consistency**: Ensure all related posts use consistent terminology
+2. **Verify consistency**: Ensure all related posts use consistent terminology
 
 ## Implementation Format
 

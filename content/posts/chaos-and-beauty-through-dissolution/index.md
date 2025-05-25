@@ -5,7 +5,7 @@ description: "How I've never been more wrong about a statement than I was 3 year
 draft: false
 publishDate: '2025-03-20'
 categories: ["Personal Growth"]
-tags: ["gender", "transgender"]
+tags: ['gender', 'transgender', 'reflections', 'neurodiversity']
 ---
 {{< figure
   src="images/tesseract.jpeg"

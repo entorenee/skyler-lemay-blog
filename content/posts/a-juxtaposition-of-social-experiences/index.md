@@ -5,7 +5,7 @@ description: "How it feels to finally be at home in my body"
 draft: false
 publishDate: '2025-05-07'
 categories: ["Personal Growth"]
-tags: ["neurodiversity", "transgender", "gender"]
+tags: ['neurodiversity', 'transgender', 'gender', 'reflections']
 ---
 {{< figure
   src="images/baby-fern.jpeg"
