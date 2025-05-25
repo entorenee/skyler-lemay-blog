@@ -3,7 +3,7 @@ title: 'Nevertheless They Persisted'
 slug: 'nevertheless-they-persisted'
 draft: false
 publishDate: '2025-01-30'
-categories: ["Creative Writing"]
+categories: ["Identity & Intersectionality"]
 tags: ["gender", "transgender", "history"]
 ---
 {{< figure

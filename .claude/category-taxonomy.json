@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "totalCategories": 8,
+    "totalCategories": 9,
     "totalPosts": 70,
     "lastUpdated": "2025-01-26",
-    "note": "Migration completed - all posts successfully categorized including 11 previously uncategorized posts",
+    "note": "Migration completed - all posts successfully categorized including new Identity & Intersectionality category",
     "migrationRequired": false,
     "currentState": "Fully migrated to new taxonomy structure"
   },
@@ -39,22 +39,33 @@
         "target_audience": "Learning-motivated individuals seeking challenge inspiration and structured learning approaches"
       },
       "Personal Growth": {
-        "description": "Self-reflection, identity exploration, life lessons, and habit building",
+        "description": "Self-reflection, personal development, life lessons, and habit building",
         "slug": "personal-growth",
-        "post_count": 16,
-        "percentage": 22.9,
+        "post_count": 11,
+        "percentage": 15.7,
         "examples": [
           "Overcoming imposter syndrome",
           "Goal setting vs themes",
           "Personal retrospectives",
           "Community influence on habits",
           "Life transition reflections",
-          "Creative space exploration",
-          "Gender identity exploration",
-          "Transition experiences",
-          "Social experiences and belonging"
+          "Creative space exploration"
         ],
-        "target_audience": "Readers seeking life improvement, self-development, and identity exploration"
+        "target_audience": "Readers seeking life improvement, self-development, and personal growth strategies"
+      },
+      "Identity & Intersectionality": {
+        "description": "Nuanced identity work, social systems analysis, and intersectional perspectives on society",
+        "slug": "identity-intersectionality",
+        "post_count": 4,
+        "percentage": 5.7,
+        "examples": [
+          "Gender identity and social systems",
+          "Intersectional identity analysis",
+          "Social safety and gender dynamics",
+          "Visibility and community solidarity",
+          "Identity taxonomy and perception"
+        ],
+        "target_audience": "Readers interested in identity politics, social justice, and intersectional analysis"
       },
       "Projects": {
         "description": "Project showcases, builds, creation stories, and development journeys",
@@ -114,12 +125,11 @@
       "Creative Writing": {
         "description": "Poetry, artistic expression, and creative content",
         "slug": "creative-writing",
-        "post_count": 3,
-        "percentage": 4.3,
+        "post_count": 2,
+        "percentage": 2.9,
         "examples": [
           "Poetry about identity and fluidity",
           "Creative reflections on survival",
-          "Artistic expression about persistence",
           "Emotional processing through verse"
         ],
         "target_audience": "Readers seeking artistic inspiration and emotional connection"
@@ -138,11 +148,12 @@
     "new_taxonomy": {
       "Technical": 15,
       "Learning & Challenges": 14,
-      "Personal Growth": 16,
+      "Personal Growth": 12,
       "Projects": 9,
       "Career Development": 9,
-      "Creative Writing": 3,
+      "Identity & Intersectionality": 4,
       "Sports & Recreation": 2,
+      "Creative Writing": 2,
       "Resources": 2
     },
     "distribution_analysis": {

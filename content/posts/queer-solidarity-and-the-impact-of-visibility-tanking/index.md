@@ -3,7 +3,7 @@ title: 'Queer Solidarity and the Impact of Visibility Tanking'
 slug: 'queer-solidarity-and-the-impact-of-visibility-tanking'
 draft: false
 publishDate: '2025-01-13'
-categories: ["Personal Growth"]
+categories: ["Identity & Intersectionality"]
 tags: ['history', 'transgender', 'gender']
 ---
 {{< figure

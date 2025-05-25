@@ -78,14 +78,15 @@ Reference @.claude/tag-taxonomy.json for complete tag taxonomy when applying tag
 - General concept tags remain lowercase: `tooling`, `accessibility`, `learning`
 
 ### Categories
-Reference @.claude/category-taxonomy.json for the category structure when categorizing posts. The taxonomy has been updated to an 8-category system for better content discoverability:
+Reference @.claude/category-taxonomy.json for the category structure when categorizing posts. The taxonomy has been updated to a 9-category system for better content discoverability:
 
 #### Recommended Category Structure
 - **Technical**: Pure technical tutorials, how-tos, tool guides
+- **Learning & Challenges**: Structured learning experiences, coding challenges
+- **Personal Growth**: Self-reflection, personal development, life lessons, habit building
 - **Projects**: Project showcases, builds, creation stories  
 - **Career Development**: Professional growth, workplace skills, leadership
-- **Personal Growth**: Self-reflection, identity exploration, life lessons
-- **Learning & Challenges**: Structured learning experiences, coding challenges
+- **Identity & Intersectionality**: Nuanced identity work, social systems analysis, intersectional perspectives
 - **Sports & Recreation**: Physical activities, cycling, endurance sports
 - **Creative Writing**: Poetry, artistic expression
 - **Resources**: Curated collections, link roundups

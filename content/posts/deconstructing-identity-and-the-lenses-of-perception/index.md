@@ -3,7 +3,7 @@ title: 'Deconstructing Identity and the Lenses of Perception'
 slug: 'deconstructing-identity-and-the-lenses-of-perception'
 draft: false
 publishDate: '2024-06-04'
-categories: ["Personal Growth"]
+categories: ["Identity & Intersectionality"]
 tags: ['gender', 'transgender']
 ---
 Identity is primarily described as an internal sense of being. My internal existence is held tightly—it was a challenging, emotional, and difficult thing to admit, explore, and ultimately claim as my own. However, identity doesn't exist in a vacuum. We are surrounded by individuals, communities, and systems which create their own taxonomies of classification. How do I acclimate to taxonomies which don't align with my nuanced reality?
