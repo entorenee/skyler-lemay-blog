@@ -63,61 +63,8 @@ This is a Hugo static site generator blog using the PaperMod theme with several 
 
 ## Content Taxonomy
 
-### Tags
-Reference @.claude/tag-taxonomy.json for complete tag taxonomy when applying tags to posts. Contains 46 unique tags with usage counts and categorization by topic (technical, personal, workplace, learning, accessibility, projects). Use this to maintain consistency and discover related tags.
+For detailed guidance on applying categories and tags to blog posts, reference @.claude/blog-taxonomy-guide.md.
 
-#### Tag Capitalization Rules
-- Use kebab-case format for multi-word tags
-- Technology names and acronyms should use proper capitalization:
-  - `JavaScript` (not `javascript`)
-  - `TypeScript` (not `typescript`) 
-  - `GraphQL` (not `graphql`)
-  - `CSS` (not `css`)
-  - `AI` (not `ai`)
-- Compound technical tags maintain proper capitalization: `TypeScript-generics`
-- General concept tags remain lowercase: `tooling`, `accessibility`, `learning`
-
-### Categories
-Reference @.claude/category-taxonomy.json for the category structure when categorizing posts. The taxonomy has been updated to a 9-category system for better content discoverability:
-
-#### Recommended Category Structure
-- **Technical**: Pure technical tutorials, how-tos, tool guides
-- **Learning & Challenges**: Structured learning experiences, coding challenges
-- **Personal Growth**: Self-reflection, personal development, life lessons, habit building
-- **Projects**: Project showcases, builds, creation stories  
-- **Career Development**: Professional growth, workplace skills, leadership
-- **Identity & Intersectionality**: Nuanced identity work, social systems analysis, intersectional perspectives
-- **Sports & Recreation**: Physical activities, cycling, endurance sports
-- **Creative Writing**: Poetry, artistic expression
-- **Resources**: Curated collections, link roundups
-
-Categories use title case format and are stored as arrays in frontmatter. Each post should have exactly one category for optimal information architecture.
-
-#### Category Implementation with Special Characters
-Categories containing special characters (like "&") use kebab-case directory names with a display title set in the category's `_index.md`:
-
-**Directory Structure:**
-```
-content/categories/
-├── identity-and-intersectionality/
-│   └── _index.md
-├── learning-and-challenges/
-│   └── _index.md
-└── sports-and-recreation/
-    └── _index.md
-```
-
-**Category Index File Format:**
-```yaml
----
-title: 'Identity & Intersectionality'
-description: 'Nuanced identity work, social systems analysis, and intersectional perspectives on society.'
----
-```
-
-**In Post Frontmatter:**
-```yaml
-categories: ['identity-and-intersectionality']
-```
-
-This approach ensures URL-safe directory names while maintaining proper display formatting with special characters.
+### Quick Reference
+- **Categories**: Reference @.claude/category-taxonomy.json (9 categories total)
+- **Tags**: Reference @.claude/tag-taxonomy.json (46 unique tags)
