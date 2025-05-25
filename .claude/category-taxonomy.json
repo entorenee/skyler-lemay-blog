@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "totalUniqueCategories": 3,
+    "totalCategoryUsages": 58,
+    "averageCategoriesPerPost": 0.85,
+    "lastUpdated": "2025-01-25",
+    "note": "Categories use title case format and are stored as arrays in frontmatter"
+  },
+  "categories": {
+    "primary": {
+      "Web Development": 42
+    },
+    "secondary": {
+      "General Musings": 14
+    },
+    "specialized": {
+      "Linked List": 2
+    },
+    "uncategorized": {
+      "empty": 1
+    }
+  },
+  "descriptions": {
+    "Web Development": "Technical posts covering programming, tools, frameworks, and development practices",
+    "General Musings": "Personal reflections, thoughts on life, career, identity, and non-technical topics",
+    "Linked List": "Curated link collections and resource roundups"
+  },
+  "usage_patterns": {
+    "most_common": "Web Development",
+    "percentage_technical": 72.4,
+    "percentage_personal": 24.1,
+    "percentage_curated": 3.4
+  }
+}
