@@ -5,6 +5,7 @@ draft: false
 publishDate: '2020-05-04'
 categories: ['Web Development']
 tags: ["TypeScript","TypeScript Generics"]
+series: ["Diving into TypeScript Generics"]
 ---
 ![TypeScript Utility Types Part 2: Record, Readonly, & Required](images/reflective-architecture-perspective.jpg#center)
 
