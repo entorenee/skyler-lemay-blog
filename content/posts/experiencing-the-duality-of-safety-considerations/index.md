@@ -3,7 +3,7 @@ title: 'Experiencing the Duality of Safety Considerations'
 slug: 'experiencing-the-duality-of-safety-considerations'
 draft: false
 publishDate: '2024-07-24'
-categories: ["Identity & Intersectionality"]
+categories: ["identity-and-intersectionality"]
 tags: ['gender', 'transgender']
 ---
 {{< figure

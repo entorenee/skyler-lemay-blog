@@ -3,7 +3,7 @@ title: '#100DaysOfCode Round 2, Week 5'
 slug: '100daysofcode-round-2-week-5'
 draft: false
 publishDate: '2018-01-15'
-categories: ['Learning & Challenges']
+categories: ['learning-and-challenges']
 tags: []
 series: ['100 Days of Code']
 ---

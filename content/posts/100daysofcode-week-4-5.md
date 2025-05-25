@@ -3,7 +3,7 @@ title: '#100DaysOfCode Week 4 & 5'
 slug: '100daysofcode-week-4-5'
 draft: false
 publishDate: '2017-09-16'
-categories: ['Learning & Challenges']
+categories: ['learning-and-challenges']
 tags: []
 series: ['100 Days of Code']
 ---

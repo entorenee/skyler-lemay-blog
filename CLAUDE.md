@@ -92,3 +92,32 @@ Reference @.claude/category-taxonomy.json for the category structure when catego
 - **Resources**: Curated collections, link roundups
 
 Categories use title case format and are stored as arrays in frontmatter. Each post should have exactly one category for optimal information architecture.
+
+#### Category Implementation with Special Characters
+Categories containing special characters (like "&") use kebab-case directory names with a display title set in the category's `_index.md`:
+
+**Directory Structure:**
+```
+content/categories/
+├── identity-and-intersectionality/
+│   └── _index.md
+├── learning-and-challenges/
+│   └── _index.md
+└── sports-and-recreation/
+    └── _index.md
+```
+
+**Category Index File Format:**
+```yaml
+---
+title: 'Identity & Intersectionality'
+description: 'Nuanced identity work, social systems analysis, and intersectional perspectives on society.'
+---
+```
+
+**In Post Frontmatter:**
+```yaml
+categories: ['identity-and-intersectionality']
+```
+
+This approach ensures URL-safe directory names while maintaining proper display formatting with special characters.

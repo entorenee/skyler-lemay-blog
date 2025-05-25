@@ -26,7 +26,7 @@
       },
       "Learning & Challenges": {
         "description": "Structured learning experiences, coding challenges, and skill acquisition journeys",
-        "slug": "learning-challenges",
+        "slug": "learning-and-challenges",
         "post_count": 14,
         "percentage": 23.7,
         "examples": [
@@ -55,7 +55,7 @@
       },
       "Identity & Intersectionality": {
         "description": "Nuanced identity work, social systems analysis, and intersectional perspectives on society",
-        "slug": "identity-intersectionality",
+        "slug": "identity-and-intersectionality",
         "post_count": 4,
         "percentage": 5.7,
         "examples": [
@@ -111,7 +111,7 @@
       },
       "Sports & Recreation": {
         "description": "Physical activities, cycling, endurance sports, and recreational experiences",
-        "slug": "sports-recreation",
+        "slug": "sports-and-recreation",
         "post_count": 2,
         "percentage": 2.9,
         "examples": [

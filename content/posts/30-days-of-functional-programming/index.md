@@ -3,7 +3,7 @@ title: '30 Days of Functional Programming'
 slug: '30-days-of-functional-programming'
 draft: false
 publishDate: '2019-08-01'
-categories: ['Learning & Challenges']
+categories: ['learning-and-challenges']
 tags: ["reflections","functional-programming","learning","habit-building","personal-growth"]
 series: ['30 Days of Functional Programming']
 ---

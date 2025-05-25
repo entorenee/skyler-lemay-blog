@@ -3,7 +3,7 @@ title: 'Functors and Monads - 30DaysofFP Week 3'
 slug: 'functors-and-monads-30daysoffp-week-3'
 draft: false
 publishDate: '2019-09-03'
-categories: ['Learning & Challenges']
+categories: ['learning-and-challenges']
 tags: ["functional-programming","JavaScript"]
 series: ['30 Days of Functional Programming']
 ---

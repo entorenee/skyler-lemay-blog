@@ -3,7 +3,7 @@ title: 'What is a Side Effect Anyway? - 30DaysofFP Week 2'
 slug: 'what-is-a-side-effect-anyway-30daysoffp-week-2'
 draft: false
 publishDate: '2019-08-19'
-categories: ['Learning & Challenges']
+categories: ['learning-and-challenges']
 tags: ["functional-programming"]
 series: ['30 Days of Functional Programming']
 ---
