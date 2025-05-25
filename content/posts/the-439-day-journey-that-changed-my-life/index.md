@@ -3,8 +3,8 @@ title: 'The 439 day Journey that Changed my Life'
 slug: 'the-439-day-journey-that-changed-my-life'
 draft: false
 publishDate: '2018-09-10'
-categories: ['Web Development']
-tags: ["Reflections","Personal Growth","Learning"]
+categories: ['Personal Growth']
+tags: ["reflections","personal-growth","learning"]
 ---
 ![The 439 day Journey that Changed my Life](images/2018-08-nighttime-timelapse.jpg#center)
 

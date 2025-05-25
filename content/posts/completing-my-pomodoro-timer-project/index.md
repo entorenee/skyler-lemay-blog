@@ -3,8 +3,8 @@ title: 'Completing my Pomodoro Timer Project'
 slug: 'completing-my-pomodoro-timer-project'
 draft: false
 publishDate: '2017-08-13'
-categories: ['Web Development']
-tags: ['Projects']
+categories: ['Projects']
+tags: ['react', 'JavaScript', 'learning']
 ---
 ![Pomodoro Timer](images/2017-08-pomodoro-timer-v1.jpg)
 

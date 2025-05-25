@@ -3,8 +3,8 @@ title: 'How to Bundle Knex with Webpack for Serverless'
 slug: 'how-to-bundle-knex-with-webpack-for-serverless'
 draft: false
 publishDate: '2020-05-22'
-categories: ['Web Development']
-tags: ["Today I Learned","Tooling"]
+categories: ['Technical']
+tags: ["today-i-learned","tooling"]
 ---
 Bundling [Knex](http://knexjs.org/) with Webpack doesn't always play well. In this particular case I was trying to bundle a serverless application with only the runtime dependencies. Since this project was utilizing TypeScript and other tooling and dev-dependencies I definitely did not want to ship all of the node modules. Additionally, most of the 10 module resolution errors I was receiving were for packages I didn't even have installed. In this blog post we'll cover utilizing a Webpack plugin to resolve this build error.
 

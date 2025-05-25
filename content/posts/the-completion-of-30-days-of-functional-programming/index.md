@@ -3,8 +3,8 @@ title: 'The Completion of 30 Days of Functional Programming'
 slug: 'the-completion-of-30-days-of-functional-programming'
 draft: false
 publishDate: '2019-09-05'
-categories: ['Web Development']
-tags: ["Functional Programming"]
+categories: ['learning-and-challenges']
+tags: ["functional-programming"]
 series: ['30 Days of Functional Programming']
 ---
 ![The Completion of 30 Days of Functional Programming](images/foggy-lake-tree-reflection.jpg#center)

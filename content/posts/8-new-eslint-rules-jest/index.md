@@ -3,8 +3,8 @@ title: '8 New ESLint Rules - Jest'
 slug: '8-new-eslint-rules-jest'
 draft: false
 publishDate: '2019-09-09'
-categories: ['Web Development']
-tags: ["Linting","Tooling","Testing"]
+categories: ['Technical']
+tags: ["linting","tooling","testing"]
 ---
 ![8 New ESLint Rules - Jest](images/markus-spiske-stacked-stones.jpg#center)
 

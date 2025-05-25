@@ -3,7 +3,7 @@ title: '#100DaysOfCode Week 1'
 slug: '100daysofcode-week-1'
 draft: false
 publishDate: '2017-08-17'
-categories: ['Web Development']
+categories: ['learning-and-challenges']
 series: ['100 Days of Code']
 ---
 > The concept and desire for instant or near-instant gratification has so permeated society that struggling with a problem can become more than arduous.

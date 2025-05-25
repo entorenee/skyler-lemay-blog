@@ -3,7 +3,7 @@ title: 'Venturing into Rabbit Holes'
 slug: 'venturing-into-rabbit-holes'
 draft: false
 publishDate: '2017-06-30'
-categories: ['Web Development']
+categories: ['Projects']
 tags: ['Projects']
 ---
 ![Twitch Viewer App](images/2017-06-twitch-v1-1.jpg)

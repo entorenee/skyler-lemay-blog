@@ -3,8 +3,8 @@ title: 'The Prompt and Subtle Infiltration of Imposter Syndrome'
 slug: 'the-prompt-and-subtle-infiltration-of-imposter-syndrome'
 draft: false
 publishDate: '2017-06-02'
-categories: ['Web Development']
-tags: []
+categories: ['Personal Growth']
+tags: ['reflections', 'learning']
 ---
 ![Computer and coffee](images/2017-05-computer-coffee.jpg)
 

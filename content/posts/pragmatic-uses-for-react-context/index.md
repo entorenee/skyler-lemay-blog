@@ -3,8 +3,8 @@ title: 'Pragmatic uses for React Context'
 slug: 'pragmatic-uses-for-react-context'
 draft: false
 publishDate: '2019-07-24'
-categories: ['Web Development']
-tags: ["React","React Hooks"]
+categories: ['Technical']
+tags: ["react","react-hooks"]
 ---
 ![Pragmatic uses for React Context](images/chains-perspective.jpg#center)
 

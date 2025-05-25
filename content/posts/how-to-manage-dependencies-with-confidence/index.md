@@ -3,8 +3,8 @@ title: 'How to Manage Dependencies with Confidence'
 slug: 'how-to-manage-dependencies-with-confidence'
 draft: false
 publishDate: '2019-02-25'
-categories: ['Web Development']
-tags: ["Tooling","NPM"]
+categories: ['Technical']
+tags: ["tooling","npm"]
 ---
 ![How to Manage Dependencies with Confidence](images/2019-02-balanced-rocks.jpg#center)
 

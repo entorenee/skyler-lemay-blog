@@ -3,8 +3,8 @@ title: 'What Mistakes did you Make This Sprint?'
 slug: 'what-mistakes-did-you-make-this-sprint'
 draft: false
 publishDate: '2020-12-11'
-categories: ['General Musings']
-tags: ["Team Health","Psychological Safety","Retrospectives","Personal Growth","Agile and Scrum"]
+categories: ['Career Development']
+tags: ["team-health","psychological-safety","retrospectives","personal-growth","agile-and-scrum"]
 ---
 ![What Mistakes did you Make This Sprint?](images/together-painting.jpg#center)
 

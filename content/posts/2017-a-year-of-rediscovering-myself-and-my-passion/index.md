@@ -3,7 +3,7 @@ title: '2017: A Year of Rediscovering Myself and My Passion'
 slug: '2017-a-year-of-rediscovering-myself-and-my-passion'
 draft: false
 publishDate: '2018-01-09'
-categories: ['Web Development']
+categories: ['Personal Growth']
 tags: []
 ---
 ![2017: A Year of Rediscovering Myself and My Passion](images/2017-01-github-commits.jpg#center)

@@ -3,8 +3,8 @@ title: 'TypeScript Utility Types Part 2: Record, Readonly, & Required'
 slug: 'typescript-utility-types-part-2-record-readonly-required'
 draft: false
 publishDate: '2020-05-04'
-categories: ['Web Development']
-tags: ["TypeScript","TypeScript Generics"]
+categories: ['Technical']
+tags: ["TypeScript","TypeScript-generics"]
 series: ["Diving into TypeScript Generics"]
 ---
 ![TypeScript Utility Types Part 2: Record, Readonly, & Required](images/reflective-architecture-perspective.jpg#center)

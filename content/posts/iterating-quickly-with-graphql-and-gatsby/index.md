@@ -3,8 +3,8 @@ title: 'Iterating Quickly with GraphQL and Gatsby'
 slug: 'iterating-quickly-with-graphql-and-gatsby'
 draft: false
 publishDate: '2019-03-11'
-categories: ['Web Development']
-tags: ["GraphQL","Gatsby","Tooling"]
+categories: ['Technical']
+tags: ["GraphQL","gatsby","tooling"]
 ---
 ![Iterating Quickly with GraphQL and Gatsby](images/geometric-triangles.jpg#center)
 
