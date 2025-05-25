@@ -3,7 +3,8 @@ title: 'Experiencing the Duality of Safety Considerations'
 slug: 'experiencing-the-duality-of-safety-considerations'
 draft: false
 publishDate: '2024-07-24'
-tags: ['Gender', 'Transgender']
+categories: ["Personal Growth"]
+tags: ['gender', 'transgender']
 ---
 {{< figure
   src="images/pexels-steve-24031784.jpg"

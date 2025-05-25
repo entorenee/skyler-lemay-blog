@@ -1,9 +1,9 @@
 {
   "metadata": {
     "totalCategories": 8,
-    "totalPosts": 59,
-    "lastUpdated": "2025-01-25",
-    "note": "Migration completed - all posts successfully categorized with new 8-category taxonomy",
+    "totalPosts": 70,
+    "lastUpdated": "2025-01-26",
+    "note": "Migration completed - all posts successfully categorized including 11 previously uncategorized posts",
     "migrationRequired": false,
     "currentState": "Fully migrated to new taxonomy structure"
   },
@@ -41,15 +41,18 @@
       "Personal Growth": {
         "description": "Self-reflection, identity exploration, life lessons, and habit building",
         "slug": "personal-growth",
-        "post_count": 10,
-        "percentage": 16.9,
+        "post_count": 16,
+        "percentage": 22.9,
         "examples": [
           "Overcoming imposter syndrome",
           "Goal setting vs themes",
           "Personal retrospectives",
           "Community influence on habits",
           "Life transition reflections",
-          "Creative space exploration"
+          "Creative space exploration",
+          "Gender identity exploration",
+          "Transition experiences",
+          "Social experiences and belonging"
         ],
         "target_audience": "Readers seeking life improvement, self-development, and identity exploration"
       },
@@ -98,34 +101,34 @@
       "Sports & Recreation": {
         "description": "Physical activities, cycling, endurance sports, and recreational experiences",
         "slug": "sports-recreation",
-        "post_count": 0,
-        "percentage": 0,
+        "post_count": 2,
+        "percentage": 2.9,
         "examples": [
-          "Oregon 3 Capes scenic loop (future)",
-          "Ultra-endurance cycling (future)",
-          "Sports community experiences (future)"
+          "Oregon 3 Capes scenic loop",
+          "Ultra-endurance cycling experiences",
+          "Sports community allyship",
+          "Cycling transition stories"
         ],
-        "target_audience": "Sports enthusiasts and cycling community",
-        "status": "ready for future content"
+        "target_audience": "Sports enthusiasts and cycling community"
       },
       "Creative Writing": {
         "description": "Poetry, artistic expression, and creative content",
         "slug": "creative-writing",
-        "post_count": 0,
-        "percentage": 0,
+        "post_count": 3,
+        "percentage": 4.3,
         "examples": [
-          "Poetry posts (future)",
-          "Creative reflections (future)",
-          "Artistic expression pieces (future)"
+          "Poetry about identity and fluidity",
+          "Creative reflections on survival",
+          "Artistic expression about persistence",
+          "Emotional processing through verse"
         ],
-        "target_audience": "Readers seeking artistic inspiration and emotional connection",
-        "status": "ready for future content"
+        "target_audience": "Readers seeking artistic inspiration and emotional connection"
       }
     }
   },
   "migration_summary": {
-    "total_posts_migrated": 59,
-    "migration_date": "2025-01-25",
+    "total_posts_migrated": 70,
+    "migration_date": "2025-01-26",
     "old_taxonomy": {
       "Web Development": 42,
       "General Musings": 14,
@@ -135,20 +138,20 @@
     "new_taxonomy": {
       "Technical": 15,
       "Learning & Challenges": 14,
-      "Personal Growth": 10,
+      "Personal Growth": 16,
       "Projects": 9,
       "Career Development": 9,
-      "Resources": 2,
-      "Sports & Recreation": 0,
-      "Creative Writing": 0
+      "Creative Writing": 3,
+      "Sports & Recreation": 2,
+      "Resources": 2
     },
     "distribution_analysis": {
-      "most_common_category": "Technical",
+      "most_common_category": "Personal Growth",
       "largest_migration_source": "Web Development (split into Technical, Projects, Learning & Challenges)",
       "content_focus": {
-        "technical_content": 40.7,
-        "personal_content": 32.2,
-        "professional_content": 27.1
+        "technical_content": 41.4,
+        "personal_content": 30.0,
+        "professional_content": 28.6
       }
     }
   },
@@ -161,9 +164,9 @@
     "scalability": "Ready to accommodate future Sports & Recreation and Creative Writing content"
   },
   "content_gaps_identified": {
-    "Sports & Recreation": "Ready for cycling, endurance sports, and recreational content",
-    "Creative Writing": "Ready for poetry, artistic expression, and creative content",
     "Technical": "Opportunity to expand with more framework-specific tutorials",
-    "Projects": "Space for more complex project showcases and architecture deep-dives"
+    "Projects": "Space for more complex project showcases and architecture deep-dives",
+    "Career Development": "Room for more leadership and workplace dynamics content",
+    "Resources": "Potential for more curated collections and tool recommendations"
   }
 }

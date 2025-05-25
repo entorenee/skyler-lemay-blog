@@ -4,6 +4,7 @@ slug: 'chaos-and-beauty-through-dissolution'
 description: "How I've never been more wrong about a statement than I was 3 years ago and am forever grateful"
 draft: false
 publishDate: '2025-03-20'
+categories: ["Personal Growth"]
 tags: ["gender", "transgender"]
 ---
 {{< figure
