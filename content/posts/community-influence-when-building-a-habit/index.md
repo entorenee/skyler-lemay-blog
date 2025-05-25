@@ -4,7 +4,7 @@ slug: 'community-influence-when-building-a-habit'
 draft: false
 publishDate: '2020-12-23'
 categories: ['General Musings']
-tags: ["Reflections","Community"]
+tags: ["reflections","community"]
 ---
 ![Community Influence when Building a Habit](images/together-we-create.jpg#center)
 

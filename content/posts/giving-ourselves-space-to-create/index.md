@@ -4,7 +4,7 @@ slug: 'giving-ourselves-space-to-create'
 draft: false
 publishDate: '2020-12-01'
 categories: ['General Musings']
-tags: ["Reflections","Creativity"]
+tags: ["reflections","creativity"]
 ---
 ![Giving Ourselves Space to Create](images/flower-amongst-lily-pads.jpg#center)
 

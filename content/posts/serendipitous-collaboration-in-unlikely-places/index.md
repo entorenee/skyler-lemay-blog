@@ -4,7 +4,7 @@ slug: 'serendipitous-collaboration-in-unlikely-places'
 draft: false
 publishDate: '2020-12-30'
 categories: ['General Musings']
-tags: ["Team Health","Psychological Safety","Creativity"]
+tags: ["team-health","psychological-safety","creativity"]
 ---
 ![Serendipitous Collaboration in Unlikely Places](images/lego-minifigs-looking-away.jpg#center)
 

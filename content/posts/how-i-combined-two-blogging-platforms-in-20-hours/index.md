@@ -4,7 +4,7 @@ slug: how-i-combined-two-blogging-platforms-in-20-hours
 draft: false
 publishDate: 2025-05-19
 categories: ['Web Development']
-tags: [AI,Tooling,"Systems Design","Today I Learned","Projects","Refactoring"]
+tags: [AI,Tooling,"systems-design","today-i-learned","projects","refactoring"]
 ---
 You know those someday maybe projects, that sit in a doom pile in the mind while waiting to finally be discarded or surge in importance? One of my projects was finally consolidating two blogging platforms into one. I had previously built a portfolio site with Gatsby way back in the day—like 7 years ago when I mainly focused on front-end engineering. It had a bunch of technical and human skills posts that had largely been dormant since 2021. However, the posts about [TypeScript utility types](/tags/typescript/) still drive a lot of traffic to this day. I started writing again last year and wanted something that I could get up and running without having to worry about managing dependencies and fiddling with all of the little things. That was a quick way for me to get stuck in the minutiae, and not actually write. The content was also less technical, so I decided to separate it and spin up a Substack account.
 

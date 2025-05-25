@@ -4,7 +4,7 @@ slug: 'personal-retrospective-q3-2019'
 draft: false
 publishDate: '2019-10-23'
 categories: ['General Musings']
-tags: ["Retrospectives","Reflections"]
+tags: ["retrospectives","reflections"]
 ---
 ![Personal Retrospective: Q3 2019](images/meiying-ng-iB7gjOsLrEQ-unsplash.jpg#center)
 

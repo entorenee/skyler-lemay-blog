@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "totalUniqueTags": 46,
+    "totalTagUsages": 160,
+    "averageTagsPerPost": 2.35,
+    "lastUpdated": "2025-01-25",
+    "note": "All tags converted to kebab-case format with consistent lowercase"
+  },
+  "tags": {
+    "mostUsed": {
+      "reflections": 12,
+      "projects": 11,
+      "tooling": 10
+    },
+    "frequentlyUsed": {
+      "transgender": 8,
+      "gender": 7,
+      "team-health": 6,
+      "accessibility": 5,
+      "psychological-safety": 5,
+      "react": 5,
+      "functional-programming": 5,
+      "learning": 5
+    },
+    "moderatelyUsed": {
+      "typescript": 4,
+      "personal-growth": 4,
+      "today-i-learned": 3,
+      "graphql": 3,
+      "javascript": 3,
+      "poetry": 3,
+      "retrospectives": 3,
+      "react-hooks": 3,
+      "gatsby": 3,
+      "typescript-generics": 3,
+      "testing": 3,
+      "linting": 3,
+      "community": 3,
+      "creativity": 3,
+      "systems-design": 3
+    },
+    "lessCommon": {
+      "web-development": 2,
+      "neurodiversity": 2,
+      "leadership": 2,
+      "npm": 2,
+      "agile-and-scrum": 2,
+      "code-quality": 2,
+      "themes": 2,
+      "productivity": 2,
+      "ai": 2,
+      "refactoring": 2,
+      "habit-building": 2,
+      "cycling": 2,
+      "inclusion": 2,
+      "history": 2,
+      "mental-health": 1,
+      "ultra-endurance": 1,
+      "ride-report": 1,
+      "css": 1,
+      "organizational-culture": 1,
+      "ethics": 1
+    }
+  },
+  "categories": {
+    "technical": [
+      "react", "typescript", "javascript", "graphql", "gatsby", "react-hooks", 
+      "typescript-generics", "testing", "linting", "web-development", "css", 
+      "tooling", "npm", "code-quality", "ai", "refactoring"
+    ],
+    "personal": [
+      "reflections", "transgender", "gender", "personal-growth", "neurodiversity", 
+      "mental-health", "creativity", "cycling", "ultra-endurance", "ride-report", 
+      "poetry"
+    ],
+    "workplace": [
+      "team-health", "psychological-safety", "leadership", "agile-and-scrum", 
+      "systems-design", "organizational-culture", "inclusion"
+    ],
+    "learning": [
+      "learning", "functional-programming", "today-i-learned", "retrospectives", 
+      "community", "habit-building", "productivity", "themes"
+    ],
+    "accessibility": [
+      "accessibility", "ethics"
+    ],
+    "projects": [
+      "projects"
+    ],
+    "history": [
+      "history"
+    ]
+  }
+}

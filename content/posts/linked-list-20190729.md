@@ -4,7 +4,7 @@ slug: 'linked-list-20190729'
 draft: false
 publishDate: '2019-07-29'
 categories: ['Linked List']
-tags: ["Accessibility","GraphQL","Web Development","JavaScript"]
+tags: ["accessibility","graphql","web-development","javascript"]
 ---
 The Linked List is a collection of interesting articles that I have recently read and found beneficial. Today's links cover web accessibility, upcoming features to ECMAScript, breaking down imperative vs declarative programming, and why your GraphQL APIs should embrace nullability.
 

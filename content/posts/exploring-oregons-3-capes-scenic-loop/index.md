@@ -3,7 +3,7 @@ title: 'Exploring Oregons 3 Capes Scenic Loop'
 slug: 'exploring-oregons-3-capes-scenic'
 draft: false
 publishDate: '2024-10-15'
-tags: ["Ultra Endurance", "Cycling", "Ride Report"]
+tags: ["ultra-endurance", "cycling", "ride-report"]
 ---
 My cycling goals this year have revolved around a theme of trying new things and pushing myself in ways that had been relegated to the maybe some day category. This has included exploring gravel riding, racing, and ultra endurance. A few weeks ago I completed my third ultra endurance ride. I completed two 200km rides in the summer, but this was the first attempt at 300km. I've also longed to ride out to the Coast from Portland metro for years, but it always seemed out of reach. As Autumn rolled in and the days have already started getting shorter, I knew I had to commit now or face an increasing amount of time in the dark, and a higher chance of substantial rain. I enjoy riding in the dark hours and the rain, but those weren't variables I wanted at play with such a large increase in distance and total elevation.
 

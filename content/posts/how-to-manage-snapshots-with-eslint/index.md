@@ -4,7 +4,7 @@ slug: 'how-to-manage-snapshots-with-eslint'
 draft: false
 publishDate: '2019-03-18'
 categories: ['Web Development']
-tags: ["Testing","Tooling","Linting","Code Quality"]
+tags: ["testing","tooling","linting","code-quality"]
 ---
 ![How to Manage Snapshots with ESLint](images/paul-skorupskas-snapshot.jpg#center)
 
