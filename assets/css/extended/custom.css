@@ -1,3 +1,32 @@
+:root {
+  --accent-color: #5928a4
+}
+
+main a {
+  text-decoration: underline;
+}
+
+.post-content blockquote {
+  border-inline-start: 3px solid var(--accent-color);
+}
+
+.notice-info {
+  padding: 0.5rem 1rem;
+  border-left: 5px solid var(--accent-color);
+
+  a {
+    font-weight: bold;
+  }
+}
+
+.post-series {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem 1rem 0 1rem;
+  margin-bottom: 2rem;
+}
+
 .home-info .entry-content p:not(:last-child) {
   margin-bottom: 1rem;
 }
@@ -10,4 +39,5 @@ code.language-markdown {
 #newsletter-container .formkit-form {
   border: 1px solid var(--border);
   border-radius: var(--radius);
+  max-width: none;
 }

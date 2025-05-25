@@ -34,6 +34,14 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{- if .Params.series -}}
+    {{- with index (.GetTerms "series") 0 -}}
+      <div class="notice-info">
+        <p>This post is part of the <a href="{{ .Permalink }}">{{ .LinkTitle }}</a> series.</p>
+      </div>
+    {{- end -}}
+  {{- end -}}
+
   {{- if .Content }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
@@ -41,6 +49,26 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
+
+  {{- if .Params.series -}}
+    <div class="post-series">
+      {{- $series := where .Site.RegularPages.ByDate ".Params.series" "intersect" .Params.series -}}
+      {{- with $series -}}
+      <h3 id="series">More from this series</h3>
+      <ol>
+          {{- range . -}}
+          <li>
+              {{- if eq .File.UniqueID $.File.UniqueID -}}
+                  <b>{{ .Title }}</b>
+              {{- else -}}
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+              {{- end -}}
+          </li>
+          {{- end -}}
+      </ol>
+      {{- end -}}
+    </div>
+  {{- end -}}
 
   {{- partial "newsletter.html" -}}
 

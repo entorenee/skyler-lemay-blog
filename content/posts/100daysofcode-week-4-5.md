@@ -4,7 +4,8 @@ slug: '100daysofcode-week-4-5'
 draft: false
 publishDate: '2017-09-16'
 categories: ['Web Development']
-tags: ["100DaysOfCode"]
+tags: []
+series: ['100 Days of Code']
 ---
 After completing the Front End Certificate on Free Code Camp, it was on to the back end, which has proven to be an interesting challenge. I have been working on using NodeJS and Express to build out routing and basic APIs. I worked through the learning courses on Free Code Camp which were a bit harder to grasp and less informative than their other lessons, but I was able to work through them. I created the first couple API microservices: a Timestamp microservice and a request header parser microservice. I started working through my url shortener project and have about half of it completed. It can receive a new url, tests that it is a valid url, and then creates a short ID which is saved to the database with the original url. I still need to build out retrieving the original url with the short url ID as well as build out the front end description. Entertainingly enough, I had a lot of fun building out the front end instructions for both API services and making them presentable and responsive. Front end continues to be my first love, but I am growing to appreciate the back end as well.
 

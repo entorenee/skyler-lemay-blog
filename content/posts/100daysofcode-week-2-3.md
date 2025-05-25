@@ -5,6 +5,7 @@ draft: false
 publishDate: '2017-08-29'
 categories: ['Web Development']
 tags: ['Projects']
+series: ['100 Days of Code']
 ---
 > The importance of community and helping other developers cannot be emphasized enough. There is so much to be gained by spending time with other developers, sharing each other's challenges, and assisting where applicable and requested.
 
