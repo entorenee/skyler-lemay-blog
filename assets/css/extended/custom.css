@@ -2,12 +2,12 @@
   --accent-color: #5928a4
 }
 
-main a {
-  text-decoration: underline;
-}
-
 .post-content blockquote {
   border-inline-start: 3px solid var(--accent-color);
+}
+
+.post-meta a {
+  text-decoration: underline;
 }
 
 .notice-info {
@@ -16,6 +16,7 @@ main a {
 
   a {
     font-weight: bold;
+    text-decoration: underline;
   }
 }
 
