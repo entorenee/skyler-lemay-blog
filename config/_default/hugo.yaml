@@ -76,7 +76,7 @@ params:
   ShowPostNavLinks: true
   ShowAllPagesInArchive: true
   defaultTheme: dark
-  comments: true
+  comments: false
   editPost:
       URL: "https://github.com/entorenee/skyler-lemay-blog/blob/main/content"
       Text: "See a typo? Suggest a change in GitHub"
