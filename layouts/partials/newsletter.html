@@ -1,35 +1,37 @@
 <div id="newsletter-container"></div>
 <script>
-  function loadNewsletter() {
-    const container = document.getElementById('newsletter-container');
-    container.innerHTML = '';
-    
-    const script = document.createElement('script');
-    script.async = true;
-    
-    if (document.body.classList.contains('dark')) {
-      script.setAttribute('data-uid', '99e00c99d5');
-      script.src = 'https://skyler-lemay.kit.com/99e00c99d5/index.js';
-    } else {
-      script.setAttribute('data-uid', 'b4c977bc68');
-      script.src = 'https://skyler-lemay.kit.com/b4c977bc68/index.js';
-    }
-    
-    container.appendChild(script);
-  }
-  
-  // Load initially
-  loadNewsletter();
-  
-  // Listen for theme changes (only on body class changes)
-  const observer = new MutationObserver(mutations => {
-    for (const mutation of mutations) {
-      if (mutation.attributeName === 'class' && mutation.target === document.body) {
-        loadNewsletter();
-        break;
+  (function() {
+    function loadNewsletter() {
+      const container = document.getElementById('newsletter-container');
+      container.innerHTML = '';
+
+      const script = document.createElement('script');
+      script.async = true;
+
+      if (document.body.classList.contains('dark')) {
+        script.setAttribute('data-uid', '99e00c99d5');
+        script.src = 'https://skyler-lemay.kit.com/99e00c99d5/index.js';
+      } else {
+        script.setAttribute('data-uid', 'b4c977bc68');
+        script.src = 'https://skyler-lemay.kit.com/b4c977bc68/index.js';
       }
+
+      container.appendChild(script);
     }
-  });
-  
-  observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+
+    // Load initially
+    loadNewsletter();
+
+    // Listen for theme changes (only on body class changes)
+    const observer = new MutationObserver(mutations => {
+      for (const mutation of mutations) {
+        if (mutation.attributeName === 'class' && mutation.target === document.body) {
+          loadNewsletter();
+          break;
+        }
+      }
+    });
+
+    observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+  })();
 </script>
