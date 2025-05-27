@@ -2,6 +2,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
+buildDrafts: false
+buildFuture: false
+
 params:
   env: production
   services:

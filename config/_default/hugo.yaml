@@ -15,8 +15,8 @@ markup:
       unsafe: true
 
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
+buildDrafts: true
+buildFuture: true
 buildExpired: false
 enableEmoji: true
 mainsections:
