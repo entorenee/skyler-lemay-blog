@@ -13,6 +13,7 @@
 .notice-info {
   padding: 0.5rem 1rem;
   border-left: 5px solid var(--accent-color);
+  margin-bottom: 1rem;
 
   a {
     font-weight: bold;
@@ -35,6 +36,16 @@
 code.language-markdown {
   white-space: pre-wrap;
   word-break: break-word !important;
+}
+
+body.dark pre.mermaid {
+  .title text {
+    fill: var(--content) !important;
+  }
+
+  .label text {
+    fill: var(--content) !important;
+  }
 }
 
 #newsletter-container .formkit-form {
