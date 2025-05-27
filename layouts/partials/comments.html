@@ -1,0 +1,27 @@
+<script defer src="https://comentario.culturegremlin.club/comentario.js"></script>
+<comentario-comments id="comments-container"></comentario-comments>
+<script defer>
+  (function() {
+    function styleComments() {
+      const container = document.getElementById('comments-container')
+      const isSiteDarkTheme = document.body.classList.contains('dark');
+      const commentsTheme = isSiteDarkTheme ? 'dark' : 'light';
+      container.setAttribute('theme', commentsTheme);
+      }
+
+    // Load initially
+    styleComments();
+
+    // Listen for theme changes (only on body class changes)
+    const observer = new MutationObserver(mutations => {
+      for (const mutation of mutations) {
+        if (mutation.attributeName === 'class' && mutation.target === document.body) {
+          styleComments();
+          break;
+        }
+      }
+    });
+
+    observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+  })();
+</script>

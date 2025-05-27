@@ -7,6 +7,7 @@ buildFuture: false
 
 params:
   env: production
+  comments: true
   services:
     umami_analytics:
       id: "98b882e2-1760-4639-bd20-eee629d534bd"
