@@ -6,8 +6,6 @@ publishDate: '2018-02-13'
 categories: ['Projects']
 tags: ["projects","react","gatsby","GraphQL"]
 ---
-![Conceptualizing and Creating a New Portfolio](images/2018-02-website-hero.jpg#center)
-
 > Imagination is the living power and prime agent of all human perception.
 > 
 > ~Samuel Taylor Coleridge
@@ -79,8 +77,6 @@ The design approach for the previous iteration was minimalistic for a couple rea
 ![Project Carousel Implementation](images/2018-02-portfolio-carousel.jpg)
 
 Even in the early stages of the planning, I knew that I wanted to substantially change how I was displaying my projects. Having a grid of screenshots with no other indication and limited discoverability that they could be clicked to get more information and links to the live versions and codebases was not a good way to properly showcase my skills. There was a decent quantity of projects, but the presentation left a lot to be desired. I knew that I wanted to have a lot of the details and links for each project up front and center, as well as use larger images. The projects needed to be showcased, not squashed into a grid of images with limited context. In my desire to display most of my projects, I overemphasized quantity over presentational quality. This imbalance needed to be rectified in order to properly display my projects. I set out to create a showcase component which would show a lot of the information previously displayed in the modal dialog, but be rendered directly onto the screen. Due to space considerations, and wanting to keep the site fairly compact I didn’t want to duplicate this component for each project. I created a carousel which would automatically cycle through a list of projects and change the presentational data on a set interval. The user is able to play and pause the carousel at any time or manually change which project is being displayed. The construction of this larger component also helped me to increase my awareness and skillset in areas of accessibility, and maintaining feature parity on both mobile and desktop as described [here](/blog/100daysofcode-round-2-weeks-3-and-4).
-
-![Portfolio About Section Using CSS Grid](images/2018-02-portfolio-about.jpg)
 
 Adding some additional depth and asymmetrical design meant that I finally needed to dive into CSS Grid to explore different and more creative layout possibilities. The About section seemed a prime place to experiment with this as none of the areas needed a substantial amount of space by themselves, and clumping them together in blocks would be beyond boring. After familiarizing myself with Grid via some tutorials I set off trying different combinations of layouts, ever thankful for the ability to change CSS declarations in the Developer Tools. To help fill out the space, and provide a nice personal touch I added a quote slideshow with some of my favorite quotes to this section as well. CSS Grid is an amazing tool, and I am so excited to explore it further and in more depth. I cannot imagine trying to create layouts like this previously and with the ease that comes with Grid. Making the design responsive is also a breeze, by changing the grid areas each asset is assigned to according to media queries. 
 
