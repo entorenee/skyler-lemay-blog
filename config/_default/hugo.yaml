@@ -74,6 +74,7 @@ params:
   ShowReadingTime: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
+  showToc: true
   ShowAllPagesInArchive: true
   defaultTheme: dark
   comments: false

@@ -3,7 +3,6 @@ title: A Beginner's Guide to Hardware Security Keys
 slug: a-beginners-guide-to-hardware-security-keys
 draft: false
 publishDate: 2025-05-27
-showToc: true
 cover:
   image: images/pexels-pixabay-39584.jpg
   caption: 'Photo by [Pixabay](https://www.pexels.com/photo/black-android-smartphone-on-top-of-white-book-39584/). Creative Commons License.'
