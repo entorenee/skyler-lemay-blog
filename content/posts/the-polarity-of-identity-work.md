@@ -18,7 +18,7 @@ tags:
 
 _Disclaimer: this is not a scientific or technical piece. There aren't any broadly applicable conclusions. It's an anecdote and reflection on personal experiences._
 
-A close friend once relayed her experiences around emotion. In the before times, emotions felt like maybe 3 buttons to push. There wasn't much room for nuance, but they kind of got the job done. Now there seem to be limitless layers, cross-sections, and permutations of emotion.
+A close friend once relayed her experiences around emotion. In the before times, emotions felt like maybe 3 buttons to push. There wasn't much room for nuance, but they kind of got the job done. Now there seems to be limitless layers, cross-sections, and permutations of emotion.
 
 It's an interesting thing to experience this apparent polarity of the deeply subconscious layers in our brains that impact so much of our lives. Who knew there could be so many icky sensations of frustration?[^1] Or happiness that tantalizes the mind like the depth of a delicious mole? The pain that only the tightest of compression can start to soothe. The confidence of knowing how I have examined all these perspectives trying to find my way to the nuanced, messy, and often unapologetic truth.
 
