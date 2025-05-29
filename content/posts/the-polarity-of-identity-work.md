@@ -12,11 +12,11 @@ tags:
   - personal-growth
   - neurodiversity
 ---
-_Disclaimer: this is not a scientific or technical piece. There aren't any broadly applicable conclusions. It's an anecdote and reflection on personal experiences._
-
 > Experience without theory is blind, but theory without experience is mere intellectual play.
 > 
 > ~ Immanuel Kant
+
+_Disclaimer: this is not a scientific or technical piece. There aren't any broadly applicable conclusions. It's an anecdote and reflection on personal experiences._
 
 A close friend once relayed her experiences around emotion. In the before times, emotions felt like maybe 3 buttons to push. There wasn't much room for nuance, but they kind of got the job done. Now there seem to be limitless layers, cross-sections, and permutations of emotion.
 
