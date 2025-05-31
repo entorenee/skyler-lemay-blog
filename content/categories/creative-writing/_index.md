@@ -1,4 +1,4 @@
 ---
 title: 'Creative Writing'
-description: 'Poetry, artistic expression, and creative content.'
+description: 'Poetry, creative writing, artistic expression, personal narratives, and emotional storytelling through verse and prose.'
 ---

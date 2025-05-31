@@ -1,9 +1,9 @@
 {
   "metadata": {
     "totalCategories": 9,
-    "totalPosts": 70,
-    "lastUpdated": "2025-01-26",
-    "note": "Migration completed - all posts successfully categorized including new Identity & Intersectionality category",
+    "totalPosts": 73,
+    "lastUpdated": "2025-01-31",
+    "note": "Updated with current post counts and verified against actual content",
     "migrationRequired": false,
     "currentState": "Fully migrated to new taxonomy structure"
   },
@@ -12,8 +12,8 @@
       "Technical": {
         "description": "Pure technical tutorials, how-tos, tool guides, and development practices",
         "slug": "technical",
-        "post_count": 15,
-        "percentage": 25.4,
+        "post_count": 16,
+        "percentage": 21.9,
         "examples": [
           "TypeScript utility types series",
           "React hooks tutorials", 
@@ -28,7 +28,7 @@
         "description": "Structured learning experiences, coding challenges, and skill acquisition journeys",
         "slug": "learning-and-challenges",
         "post_count": 14,
-        "percentage": 23.7,
+        "percentage": 19.2,
         "examples": [
           "100 Days of Code series",
           "30 Days of Functional Programming",
@@ -41,8 +41,8 @@
       "Personal Growth": {
         "description": "Self-reflection, personal development, life lessons, and habit building",
         "slug": "personal-growth",
-        "post_count": 11,
-        "percentage": 15.7,
+        "post_count": 12,
+        "percentage": 16.4,
         "examples": [
           "Overcoming imposter syndrome",
           "Goal setting vs themes",
@@ -56,8 +56,8 @@
       "Identity & Intersectionality": {
         "description": "Nuanced identity work, social systems analysis, and intersectional perspectives on society",
         "slug": "identity-and-intersectionality",
-        "post_count": 4,
-        "percentage": 5.7,
+        "post_count": 5,
+        "percentage": 6.8,
         "examples": [
           "Gender identity and social systems",
           "Intersectional identity analysis",
@@ -71,7 +71,7 @@
         "description": "Project showcases, builds, creation stories, and development journeys",
         "slug": "projects",
         "post_count": 9,
-        "percentage": 15.3,
+        "percentage": 12.3,
         "examples": [
           "JavaScript calculator project",
           "Pomodoro timer creation",
@@ -85,8 +85,8 @@
       "Career Development": {
         "description": "Professional growth, workplace skills, leadership, and team dynamics",
         "slug": "career-development",
-        "post_count": 9,
-        "percentage": 15.3,
+        "post_count": 8,
+        "percentage": 11.0,
         "examples": [
           "Mentoring approaches",
           "Psychological safety in teams",
@@ -100,8 +100,8 @@
       "Resources": {
         "description": "Curated collections, link roundups, and resource sharing",
         "slug": "resources",
-        "post_count": 2,
-        "percentage": 3.4,
+        "post_count": 3,
+        "percentage": 4.1,
         "examples": [
           "Linked List curated articles",
           "Tool recommendations",
@@ -113,7 +113,7 @@
         "description": "Physical activities, cycling, endurance sports, and recreational experiences",
         "slug": "sports-and-recreation",
         "post_count": 2,
-        "percentage": 2.9,
+        "percentage": 2.7,
         "examples": [
           "Oregon 3 Capes scenic loop",
           "Ultra-endurance cycling experiences",
@@ -125,8 +125,8 @@
       "Creative Writing": {
         "description": "Poetry, artistic expression, and creative content",
         "slug": "creative-writing",
-        "post_count": 2,
-        "percentage": 2.9,
+        "post_count": 3,
+        "percentage": 4.1,
         "examples": [
           "Poetry about identity and fluidity",
           "Creative reflections on survival",
@@ -137,7 +137,7 @@
     }
   },
   "migration_summary": {
-    "total_posts_migrated": 70,
+    "total_posts_migrated": 73,
     "migration_date": "2025-01-26",
     "old_taxonomy": {
       "Web Development": 42,
@@ -146,18 +146,18 @@
       "Empty": 1
     },
     "new_taxonomy": {
-      "Technical": 15,
+      "Technical": 16,
       "Learning & Challenges": 14,
       "Personal Growth": 12,
       "Projects": 9,
-      "Career Development": 9,
-      "Identity & Intersectionality": 4,
-      "Sports & Recreation": 2,
-      "Creative Writing": 2,
-      "Resources": 2
+      "Career Development": 8,
+      "Identity & Intersectionality": 5,
+      "Resources": 3,
+      "Creative Writing": 3,
+      "Sports & Recreation": 2
     },
     "distribution_analysis": {
-      "most_common_category": "Personal Growth",
+      "most_common_category": "Technical",
       "largest_migration_source": "Web Development (split into Technical, Projects, Learning & Challenges)",
       "content_focus": {
         "technical_content": 41.4,

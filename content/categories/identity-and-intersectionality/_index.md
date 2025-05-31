@@ -1,4 +1,4 @@
 ---
 title: 'Identity & Intersectionality'
-description: 'Nuanced identity work, social systems analysis, and intersectional perspectives on society.'
+description: 'Gender identity, LGBTQ+ experiences, social justice, intersectional feminism, and inclusive systems design for marginalized communities.'
 ---
