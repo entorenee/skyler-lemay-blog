@@ -29,8 +29,9 @@ This document outlines the systematic steps for preparing a blog post for public
 
 ### 5. Draft Status Confirmation
 - Check if `draft` is set to `true` in the frontmatter
-- **CRITICAL**: Ask for explicit confirmation before changing `draft: true` to `draft: false`
-- Must get user approval before making the post live
+- **CRITICAL**: If draft is true, ask the user explicitly: "Would you like me to change draft from true to false to publish this post?"
+- **NEVER** change draft status without explicit user permission
+- Wait for clear confirmation before making any changes to draft status
 - This step prevents accidental publication of incomplete content
 
 ## Quality Checklist
