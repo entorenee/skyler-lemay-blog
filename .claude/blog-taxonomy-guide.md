@@ -20,7 +20,7 @@ Reference `.claude/category-taxonomy.json` for complete category definitions, de
 
 ## Selecting Tags
 
-1. **Reference the taxonomy**: Use `.claude/tag-taxonomy.json` for the complete tag taxonomy (46 unique tags)
+1. **Reference the taxonomy**: Use `.claude/tag-taxonomy.json` for the complete tag taxonomy (50 unique tags)
 2. **Select applicable tags**: Choose tags that best apply to the post content
 3. **Suggest new tags**: If additional tags would be beneficial, suggest new tags to create
 4. **Review impact**: Examine existing posts to determine if they would benefit from new tags
@@ -32,7 +32,7 @@ Reference `.claude/category-taxonomy.json` for complete category definitions, de
 - Technology names use proper capitalization: `JavaScript`, `TypeScript`, `GraphQL`, `CSS`, `AI`
 - Compound technical tags maintain proper capitalization: `TypeScript-generics`
 - General concept tags remain lowercase: `tooling`, `accessibility`, `learning`
-- Average 2.35 tags per post (aim for 2-4 tags per post)
+- Average 2.81 tags per post (aim for 2-4 tags per post)
 
 ### Tag Usage Reference:
 Reference `.claude/tag-taxonomy.json` for complete tag frequency data and usage patterns.
@@ -44,6 +44,54 @@ Reference `.claude/tag-taxonomy.json` for complete tag frequency data and usage 
 - **Career Development posts**: Often include `team-health`, `psychological-safety`, `leadership`, `retrospectives`
 - **Identity & Intersectionality posts**: Often include `transgender`, `gender`, may include `reflections`, `neurodiversity`
 
+## Creating New Category Index Pages
+
+When a new category is created, follow these steps to ensure proper SEO optimization:
+
+1. **Create category index page**: Run `make name=category new-category` (using kebab-case format)
+2. **Add SEO description**: Open the generated `content/categories/category-name/_index.md` file
+3. **Write description**: Create an SEO-optimized description with maximum 160 characters that:
+   - Clearly describes the category's content scope
+   - Includes relevant keywords for search discovery
+   - Matches the category's actual usage across posts
+   - Uses natural, descriptive language
+
+### SEO Description Examples:
+```yaml
+# Technical category
+description: 'Pure technical tutorials, how-tos, tool guides, and development practices.'
+
+# Personal category
+description: 'Self-reflection, personal development, life lessons, and habit building.'
+
+# Professional category
+description: 'Professional growth, workplace skills, leadership, and team dynamics.'
+```
+
+## Creating New Tag Index Pages
+
+When a new tag is created, follow these steps to ensure proper SEO optimization:
+
+1. **Create tag index page**: Run `make name=tag-name new-tag` (using kebab-case format)
+2. **Add SEO description**: Open the generated `content/tags/tag-name/_index.md` file
+3. **Write description**: Create an SEO-optimized description with maximum 160 characters that:
+   - Clearly describes the tag's content scope
+   - Includes relevant keywords for search discovery
+   - Matches the tag's actual usage across posts
+   - Uses natural, descriptive language
+
+### SEO Description Examples:
+```yaml
+# Technical tags
+description: 'React.js tutorials, hooks, components, state management, best practices, and modern React development techniques.'
+
+# Personal tags  
+description: 'Personal development, self-improvement, life lessons, goal setting, and individual growth strategies.'
+
+# Mixed scope tags
+description: 'Building communities, social connections, collaboration, support networks, and fostering belonging across diverse groups.'
+```
+
 ## After Completion
 
 1. **Update JSON files**: Always update the taxonomy JSON files to maintain accurate statistics and metadata:
@@ -51,7 +99,10 @@ Reference `.claude/tag-taxonomy.json` for complete tag frequency data and usage 
    - Update `tag-taxonomy.json` with new tag usage counts and frequency data
    - Update metadata sections (totalPosts, lastUpdated, etc.)
 2. **Add new terms**: If new categories or tags were created, add them to the respective JSON files with proper definitions
-3. **Verify consistency**: Ensure all related posts use consistent terminology
+3. **Create index pages**: For new content:
+   - **New categories**: Follow the "Creating New Category Index Pages" process above
+   - **New tags**: Follow the "Creating New Tag Index Pages" process above
+4. **Verify consistency**: Ensure all related posts use consistent terminology
 
 ## Implementation Format
 
@@ -64,7 +115,7 @@ tags: ['react', 'TypeScript', 'testing']
 ---
 ```
 
-### Category Directory Structure:
+### Directory Structure:
 ```
 content/categories/
 ├── identity-and-intersectionality/
@@ -73,6 +124,14 @@ content/categories/
 │   └── _index.md  # Contains: title: 'Learning & Challenges'
 └── sports-and-recreation/
     └── _index.md  # Contains: title: 'Sports & Recreation'
+
+content/tags/
+├── react/
+│   └── _index.md  # Contains SEO description for React content
+├── transgender/
+│   └── _index.md  # Contains SEO description for transgender content
+└── team-health/
+    └── _index.md  # Contains SEO description for team health content
 ```
 
 This systematic approach ensures consistent taxonomy application while maintaining flexibility for content evolution.
