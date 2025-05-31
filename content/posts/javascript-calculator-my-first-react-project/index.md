@@ -1,5 +1,6 @@
 ---
 title: 'JavaScript Calculator: my First React Project'
+summary: "Building my first React application: lessons learned from handling complex state, debugging edge cases, and keyboard support."
 slug: 'javascript-calculator-my-first-react-project'
 draft: false
 publishDate: '2017-08-06'

@@ -1,5 +1,6 @@
 ---
 title: The Polarity of Identity Work
+summary: 'Exploring the complex journey of identity work: balancing visibility with safety, community with solitude.'
 slug: the-polarity-of-identity-work
 draft: false
 publishDate: 2025-05-29

@@ -1,5 +1,6 @@
 ---
 title: 'How to Manage Dependencies with Confidence'
+summary: "Learn three core principles for safe dependency management to avoid breaking changes and maintain project stability."
 slug: 'how-to-manage-dependencies-with-confidence'
 draft: false
 publishDate: '2019-02-25'

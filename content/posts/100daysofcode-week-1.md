@@ -1,5 +1,6 @@
 ---
 title: '#100DaysOfCode Week 1'
+summary: "First week progress: building React skills with Pomodoro timer and starting Tic Tac Toe game project."
 slug: '100daysofcode-week-1'
 draft: false
 publishDate: '2017-08-17'

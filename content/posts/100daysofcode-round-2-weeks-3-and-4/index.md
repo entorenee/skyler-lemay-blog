@@ -1,5 +1,6 @@
 ---
 title: '#100DaysOfCode Round 2, Weeks 3 and 4'
+summary: "Balancing holiday travel with continued progress on site redesign and deepening understanding of testing concepts."
 slug: '100daysofcode-round-2-weeks-3-and-4'
 draft: false
 publishDate: '2017-12-30'

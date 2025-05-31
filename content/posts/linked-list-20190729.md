@@ -1,5 +1,6 @@
 ---
 title: 'Linked List - 20190729'
+summary: "Curated collection of articles covering web accessibility, optional chaining, GraphQL nullability, and programming paradigms."
 slug: 'linked-list-20190729'
 draft: false
 publishDate: '2019-07-29'

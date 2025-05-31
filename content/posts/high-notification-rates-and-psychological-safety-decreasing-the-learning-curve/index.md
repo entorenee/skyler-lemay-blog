@@ -1,5 +1,6 @@
 ---
 title: 'High Notification Rates and Psychological Safety: Decreasing the Learning Curve'
+summary: "How frequent team communication and psychological safety combine to accelerate learning and reduce friction."
 slug: 'high-notification-rates-and-psychological-safety-decreasing-the-learning-curve'
 draft: false
 publishDate: '2020-12-22'

@@ -1,5 +1,6 @@
 ---
 title: 'Giving Ourselves Space to Create'
+summary: "Breaking the overcommitment cycle to make room for creativity and meaningful work in our overwhelmed lives."
 slug: 'giving-ourselves-space-to-create'
 draft: false
 publishDate: '2020-12-01'

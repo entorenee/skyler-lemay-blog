@@ -1,5 +1,6 @@
 ---
 title: '#100DaysOfCode Round 2, Week 5'
+summary: "Creating my first higher-order component to share slideshow logic across multiple React components."
 slug: '100daysofcode-round-2-week-5'
 draft: false
 publishDate: '2018-01-15'

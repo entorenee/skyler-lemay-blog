@@ -1,5 +1,6 @@
 ---
 title: 'Deconstructing Identity and the Lenses of Perception'
+summary: "Navigating the complexity and layers of trans identity and the relationship between self-perception and social perspective."
 slug: 'deconstructing-identity-and-the-lenses-of-perception'
 draft: false
 publishDate: '2024-06-04'

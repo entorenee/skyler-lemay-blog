@@ -1,5 +1,6 @@
 ---
 title: 'Overcoming the Fragility of Goals with Themes'
+summary: "Why flexible themes work better than rigid New Year's resolutions for personal growth and life changes."
 slug: 'overcoming-the-fragility-of-goals-with-themes'
 draft: false
 publishDate: '2020-11-30'

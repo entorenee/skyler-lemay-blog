@@ -1,5 +1,6 @@
 ---
 title: 'Conceptualizing and Creating a New Portfolio'
+summary: "Rebuilding my portfolio from Jekyll to Gatsby with React: overcoming limitations and showcasing new skills."
 slug: 'conceptualizing-and-creating-a-new-portfolio'
 draft: false
 publishDate: '2018-02-13'

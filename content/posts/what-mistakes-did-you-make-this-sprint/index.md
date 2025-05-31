@@ -1,5 +1,6 @@
 ---
 title: 'What Mistakes did you Make This Sprint?'
+summary: "Transform empty retrospectives into learning opportunities by creating safe spaces to discuss risks and mistakes."
 slug: 'what-mistakes-did-you-make-this-sprint'
 draft: false
 publishDate: '2020-12-11'

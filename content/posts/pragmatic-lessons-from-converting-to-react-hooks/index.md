@@ -1,5 +1,6 @@
 ---
 title: 'Pragmatic Lessons from Converting to React Hooks'
+summary: "Real-world insights from converting a Gatsby site to React Hooks, including code consolidation and component patterns."
 slug: 'pragmatic-lessons-from-converting-to-react-hooks'
 draft: false
 publishDate: '2019-02-06'

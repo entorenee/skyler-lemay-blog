@@ -1,5 +1,6 @@
 ---
 title: '#100DaysOfCode Week 4 & 5'
+summary: "Transitioning to backend development with Node.js, Express, and MongoDB while building API microservices."
 slug: '100daysofcode-week-4-5'
 draft: false
 publishDate: '2017-09-16'

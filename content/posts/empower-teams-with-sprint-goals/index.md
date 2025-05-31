@@ -1,5 +1,6 @@
 ---
 title: 'Empower Teams with Sprint Goals'
+summary: "How Sprint Goals create team focus, enable smart prioritization, and serve as a litmus test for scope decisions."
 slug: 'empower-teams-with-sprint-goals'
 draft: false
 publishDate: '2020-11-25'

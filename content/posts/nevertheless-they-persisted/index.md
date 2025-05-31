@@ -1,5 +1,6 @@
 ---
 title: 'Nevertheless They Persisted'
+summary: "A reflection on transgender resilience throughout history and the strength found in community despite systemic erasure."
 slug: 'nevertheless-they-persisted'
 draft: false
 publishDate: '2025-01-30'

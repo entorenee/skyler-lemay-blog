@@ -1,5 +1,6 @@
 ---
 title: '30 Days of Functional Programming'
+summary: "Exploring a gamified approach to deep learning through 30 days of focused functional programming study and habit building."
 slug: '30-days-of-functional-programming'
 draft: false
 publishDate: '2019-08-01'

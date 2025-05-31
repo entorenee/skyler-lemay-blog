@@ -1,5 +1,6 @@
 ---
 title: 'TypeScript Utility Types Part 1: Partial, Pick, and Omit'
+summary: "Learn to leverage TypeScript's Partial, Pick, and Omit utility types for cleaner, more flexible type management in your applications."
 slug: 'typescript-utility-types-part-1-partial-pick-and-omit'
 draft: false
 publishDate: '2020-04-27'

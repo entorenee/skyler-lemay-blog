@@ -1,5 +1,6 @@
 ---
 title: 'Community Influence when Building a Habit'
+summary: "How a supportive community can overcome habit formation inertia and provide accountability for personal growth."
 slug: 'community-influence-when-building-a-habit'
 draft: false
 publishDate: '2020-12-23'

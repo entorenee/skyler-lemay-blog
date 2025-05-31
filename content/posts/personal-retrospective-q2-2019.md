@@ -1,5 +1,6 @@
 ---
 title: 'Personal Retrospective: Q2 2019'
+summary: "First quarterly personal retrospective exploring intentional living with goals for writing, learning, and making."
 slug: 'personal-retrospective-q2-2019'
 draft: false
 publishDate: '2019-08-05'

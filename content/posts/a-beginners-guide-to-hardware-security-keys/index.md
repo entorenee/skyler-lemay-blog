@@ -1,5 +1,6 @@
 ---
 title: A Beginner's Guide to Hardware Security Keys
+summary: "Essential guide to hardware security keys: what they are, why you need them, and how to choose the right one."
 slug: a-beginners-guide-to-hardware-security-keys
 draft: false
 publishDate: 2025-05-27

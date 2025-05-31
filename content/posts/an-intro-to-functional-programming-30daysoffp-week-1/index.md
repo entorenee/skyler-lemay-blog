@@ -1,5 +1,6 @@
 ---
 title: 'An intro to Functional Programming - 30DaysofFP Week 1'
+summary: "First week diving into functional programming concepts with practical JavaScript examples and composition patterns."
 slug: 'an-intro-to-functional-programming-30daysoffp-week-1'
 draft: false
 publishDate: '2019-08-12'

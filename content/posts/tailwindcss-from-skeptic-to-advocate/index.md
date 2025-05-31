@@ -1,5 +1,6 @@
 ---
 title: 'TailwindCSS: From Skeptic to Advocate'
+summary: "Why I changed my mind about utility-first CSS after working with Tailwind on three projects."
 slug: 'tailwindcss-from-skeptic-to-advocate'
 draft: false
 publishDate: '2020-05-18'

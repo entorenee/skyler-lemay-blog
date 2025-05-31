@@ -1,5 +1,6 @@
 ---
 title: 'Iterating Quickly with GraphQL and Gatsby'
+summary: "Leverage Gatsby's GraphQL integration to rapidly build blog features like categories, tags, and metadata."
 slug: 'iterating-quickly-with-graphql-and-gatsby'
 draft: false
 publishDate: '2019-03-11'

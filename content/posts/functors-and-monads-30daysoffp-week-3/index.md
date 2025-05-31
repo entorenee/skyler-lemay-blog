@@ -1,5 +1,6 @@
 ---
 title: 'Functors and Monads - 30DaysofFP Week 3'
+summary: "Demystifying functors and monads as data types with rules, featuring practical JavaScript implementations."
 slug: 'functors-and-monads-30daysoffp-week-3'
 draft: false
 publishDate: '2019-09-03'

@@ -1,5 +1,6 @@
 ---
 title: 'Serendipitous Collaboration in Unlikely Places'
+summary: "How a simple Slack channel evolved into a safe space for creative collaboration and supportive learning."
 slug: 'serendipitous-collaboration-in-unlikely-places'
 draft: false
 publishDate: '2020-12-30'

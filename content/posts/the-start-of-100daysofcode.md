@@ -1,5 +1,6 @@
 ---
 title: 'The Start of #100DaysOfCode'
+summary: "Starting a 100-day coding challenge to build habits, join community, and accelerate progress toward becoming a developer."
 slug: 'the-start-of-100daysofcode'
 draft: false
 publishDate: '2017-08-07'

@@ -1,5 +1,6 @@
 ---
 title: 'Queer Solidarity and the Impact of Visibility Tanking'
+summary: "How historical transgender visibility has been systematically erased and the importance of solidarity in preserving our stories."
 slug: 'queer-solidarity-and-the-impact-of-visibility-tanking'
 draft: false
 publishDate: '2025-01-13'

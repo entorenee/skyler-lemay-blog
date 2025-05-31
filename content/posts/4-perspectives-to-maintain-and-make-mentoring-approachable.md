@@ -1,5 +1,6 @@
 ---
 title: '4 Perspectives to Maintain and make Mentoring Approachable'
+summary: "Why mentoring isn't just for senior developers: embracing diverse skillsets and experience across all levels."
 slug: '4-perspectives-to-maintain-and-make-mentoring-approachable'
 draft: false
 publishDate: '2018-12-03'

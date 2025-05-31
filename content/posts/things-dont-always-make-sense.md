@@ -1,5 +1,6 @@
 ---
 title: "Things Don't Always Make Sense"
+summary: "A poem about finding strength in community and solidarity when facing life's painful and incomprehensible moments."
 slug: 'things-dont-always-make-sense'
 draft: false
 publishDate: '2025-05-12'

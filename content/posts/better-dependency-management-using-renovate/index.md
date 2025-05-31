@@ -1,5 +1,6 @@
 ---
 title: 'Better Dependency Management Using Renovate'
+summary: "Discover how Renovate automates dependency updates more effectively than Dependabot or Greenkeeper for better code maintenance."
 slug: 'better-dependency-management-using-renovate'
 draft: false
 publishDate: '2019-11-18'

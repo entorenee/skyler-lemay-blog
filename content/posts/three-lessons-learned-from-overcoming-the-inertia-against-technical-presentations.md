@@ -1,5 +1,6 @@
 ---
 title: 'Three Lessons Learned from Overcoming the Inertia Against Technical Presentations'
+summary: "Overcoming imposter syndrome to give technical talks: why you don't need to be an expert to teach others."
 slug: 'three-lessons-learned-from-overcoming-the-inertia-against-technical-presentations'
 draft: false
 publishDate: '2018-05-17'

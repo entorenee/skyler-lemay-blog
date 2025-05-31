@@ -1,5 +1,6 @@
 ---
 title: 'How to Resolve Accessibility Issues with React Helmet'
+summary: "Fix missing lang attributes and improve screen reader support using React Helmet for better web accessibility."
 slug: 'how-to-resolve-accessibility-issues-with-react-helmet'
 draft: false
 publishDate: '2019-05-28'

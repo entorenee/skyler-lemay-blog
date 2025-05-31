@@ -1,5 +1,6 @@
 ---
 title: 'The Prompt and Subtle Infiltration of Imposter Syndrome'
+summary: "Recognizing and overcoming imposter syndrome as a new developer learning to own the title without apologizing."
 slug: 'the-prompt-and-subtle-infiltration-of-imposter-syndrome'
 draft: false
 publishDate: '2017-06-02'

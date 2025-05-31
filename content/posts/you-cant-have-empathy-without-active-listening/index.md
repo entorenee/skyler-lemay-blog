@@ -1,5 +1,6 @@
 ---
 title: "You Can't Have Empathy without Active Listening"
+summary: "How active listening creates genuine connections and practical tools to improve communication equity in meetings."
 slug: 'you-can-t-have-empathy-without-active-listening'
 draft: false
 publishDate: '2020-12-15'

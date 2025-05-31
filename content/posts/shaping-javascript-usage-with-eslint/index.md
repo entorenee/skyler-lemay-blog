@@ -1,5 +1,6 @@
 ---
 title: 'Shaping JavaScript Usage with ESLint'
+summary: "Beyond code quality: how ESLint's expansive rules can shape team coding patterns and enforce project-specific standards."
 slug: 'shaping-javascript-usage-with-eslint'
 draft: false
 publishDate: '2019-05-23'

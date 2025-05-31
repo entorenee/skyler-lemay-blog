@@ -1,5 +1,6 @@
 ---
 title: 'How to Bundle Knex with Webpack for Serverless'
+summary: "Solve Knex bundling issues with Webpack using NormalModuleReplacementPlugin for cleaner serverless deployments."
 slug: 'how-to-bundle-knex-with-webpack-for-serverless'
 draft: false
 publishDate: '2020-05-22'

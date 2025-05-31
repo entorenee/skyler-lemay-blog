@@ -1,5 +1,6 @@
 ---
 title: 'Experiencing the Duality of Safety Considerations'
+summary: "A personal reflection on how transitioning changed my awareness of safety and the stark reality of navigating misogyny."
 slug: 'experiencing-the-duality-of-safety-considerations'
 draft: false
 publishDate: '2024-07-24'

@@ -1,5 +1,6 @@
 ---
 title: Who Are We Excluding in Our Systems Designs
+summary: "Critical examination of how AI systems and software design can unintentionally exclude marginalized communities."
 slug: who-are-we-excluding-in-our-systems-designs
 draft: false
 publishDate: 2025-05-22

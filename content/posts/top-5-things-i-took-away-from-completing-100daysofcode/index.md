@@ -1,5 +1,6 @@
 ---
 title: 'Top 5 Things I took away from Completing #100DaysOfCode'
+summary: "Key insights from completing 100 Days of Code: community power, habit building, and breaking down complex problems."
 slug: 'top-5-things-i-took-away-from-completing-100daysofcode'
 draft: false
 publishDate: '2017-11-27'

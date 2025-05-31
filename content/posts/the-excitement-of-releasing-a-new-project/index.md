@@ -1,5 +1,6 @@
 ---
 title: 'The Excitement of Releasing a New Project'
+summary: "Launching my most complex JavaScript project yet: building a Twitch viewer with dynamic objects and async API calls."
 slug: 'the-excitement-of-releasing-a-new-project'
 draft: false
 publishDate: '2017-06-14'

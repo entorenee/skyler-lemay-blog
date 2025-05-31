@@ -1,5 +1,6 @@
 ---
 title: 'Personal Retrospective: Q3 2019'
+summary: "Q3 progress review on intentional living goals and setting focus areas for the final quarter of 2019."
 slug: 'personal-retrospective-q3-2019'
 draft: false
 publishDate: '2019-10-23'

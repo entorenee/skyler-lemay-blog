@@ -1,5 +1,6 @@
 ---
 title: 'The Journey to Creating Wanderful'
+summary: "Building a MERN stack travel app: the team project journey from concept to launch with random destinations."
 slug: 'the-journey-to-creating-wanderful'
 draft: false
 publishDate: '2017-11-21'

@@ -1,5 +1,6 @@
 ---
 title: 'Building Tic Tac Toe, Mental Obstacles, and the Benefits of React'
+summary: "Overcoming analysis paralysis in AI development: breaking down complex problems into manageable pieces with React."
 slug: 'building-tic-tac-toe-mental-obstacles-and-the-benefits-of-react'
 draft: false
 publishDate: '2017-08-22'

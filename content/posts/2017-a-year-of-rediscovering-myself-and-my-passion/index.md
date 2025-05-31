@@ -1,5 +1,6 @@
 ---
 title: '2017: A Year of Rediscovering Myself and My Passion'
+summary: "From career doldrums to passionate web developer: how discovering programming transformed my life in one year."
 slug: '2017-a-year-of-rediscovering-myself-and-my-passion'
 draft: false
 publishDate: '2018-01-09'

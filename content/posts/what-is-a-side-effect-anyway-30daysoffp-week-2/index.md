@@ -1,5 +1,6 @@
 ---
 title: 'What is a Side Effect Anyway? - 30DaysofFP Week 2'
+summary: "Understanding side effects in functional programming: how to identify, manage, and maintain functional purity."
 slug: 'what-is-a-side-effect-anyway-30daysoffp-week-2'
 draft: false
 publishDate: '2019-08-19'

@@ -1,5 +1,6 @@
 ---
 title: 'How to Configure Jest for Vue apps Using Vuetify'
+summary: "Fix Jest testing errors with Vuetify's global components by properly configuring your test setup."
 slug: 'how-to-configure-jest-for-vue-apps-using-vuetify'
 draft: false
 publishDate: '2019-10-09'

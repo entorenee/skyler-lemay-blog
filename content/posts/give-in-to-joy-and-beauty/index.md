@@ -1,5 +1,6 @@
 ---
 title: 'Give in to Joy and Beauty'
+summary: "Finding mindfulness and perspective through hiking in the Pacific Northwest's natural beauty and away from technology."
 slug: 'give-in-to-joy-and-beauty'
 draft: false
 publishDate: '2017-06-23'

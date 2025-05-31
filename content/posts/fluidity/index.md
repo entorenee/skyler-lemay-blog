@@ -1,5 +1,6 @@
 ---
 title: 'Fluidity'
+summary: "A poetic exploration of life's fluid nature, embracing change and adaptation rather than clinging to rigid assumptions."
 slug: 'fluidity'
 draft: false
 publishDate: '2025-04-29'

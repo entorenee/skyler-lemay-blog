@@ -1,5 +1,6 @@
 ---
 title: 'How to Manage Snapshots with ESLint'
+summary: "Keep Jest snapshots manageable with ESLint rules that prevent overly large, hard-to-review snapshot files."
 slug: 'how-to-manage-snapshots-with-eslint'
 draft: false
 publishDate: '2019-03-18'

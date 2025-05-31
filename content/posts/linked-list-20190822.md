@@ -1,5 +1,6 @@
 ---
 title: 'Linked List - 20190822'
+summary: "Essential reads on screen reader testing, TypeScript adoption at scale, React Hooks pitfalls, and ES6 Maps vs Objects."
 slug: 'linked-list-20190822'
 draft: false
 publishDate: '2019-08-22'

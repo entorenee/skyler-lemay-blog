@@ -1,5 +1,6 @@
 ---
 title: 'Completing my Pomodoro Timer Project'
+summary: "Building a React Pomodoro timer: learning lifecycle methods, importing assets, and exploring HTML Canvas for UI."
 slug: 'completing-my-pomodoro-timer-project'
 draft: false
 publishDate: '2017-08-13'

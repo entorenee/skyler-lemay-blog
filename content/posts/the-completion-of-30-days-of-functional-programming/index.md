@@ -1,5 +1,6 @@
 ---
 title: 'The Completion of 30 Days of Functional Programming'
+summary: "Reflecting on lessons learned from 30 days of functional programming study and the #LearnInPublic approach."
 slug: 'the-completion-of-30-days-of-functional-programming'
 draft: false
 publishDate: '2019-09-05'

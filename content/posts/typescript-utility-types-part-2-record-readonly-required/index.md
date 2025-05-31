@@ -1,5 +1,6 @@
 ---
 title: 'TypeScript Utility Types Part 2: Record, Readonly, & Required'
+summary: "Master TypeScript's Record, Readonly, and Required utilities to create immutable types and flexible object structures."
 slug: 'typescript-utility-types-part-2-record-readonly-required'
 draft: false
 publishDate: '2020-05-04'

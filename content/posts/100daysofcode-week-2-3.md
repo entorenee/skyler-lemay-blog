@@ -1,5 +1,6 @@
 ---
 title: '#100DaysOfCode Week 2 & 3'
+summary: "Completing front-end certification with Tic Tac Toe and Simon games while discovering the power of developer community."
 slug: '100daysofcode-week-2-3'
 draft: false
 publishDate: '2017-08-29'

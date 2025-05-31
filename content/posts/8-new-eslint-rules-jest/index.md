@@ -1,5 +1,6 @@
 ---
 title: '8 New ESLint Rules - Jest'
+summary: "Explore 8 powerful ESLint rules for Jest testing that improve code quality and catch common testing pitfalls."
 slug: '8-new-eslint-rules-jest'
 draft: false
 publishDate: '2019-09-09'

@@ -1,5 +1,6 @@
 ---
 title: 'TypeScript Utility Types Part 3: Extract, Exclude, and NonNullable'
+summary: "Refine TypeScript types with Extract, Exclude, and NonNullable utilities for precise type filtering and null safety."
 slug: 'typescript-utility-types-part-3-extract-exclude-and-nonnullable'
 draft: false
 publishDate: '2020-05-25'

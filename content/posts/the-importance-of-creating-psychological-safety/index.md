@@ -1,5 +1,6 @@
 ---
 title: 'The Importance of Creating Psychological Safety'
+summary: "Discover how psychological safety forms the foundation of high-performing teams and practical strategies to foster it."
 slug: 'the-importance-of-creating-psychological-safety'
 draft: false
 publishDate: '2020-12-07'

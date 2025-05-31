@@ -1,5 +1,6 @@
 ---
 title: 'Pragmatic uses for React Context'
+summary: "Discover practical applications of React Context API for language providers and avoiding prop drilling patterns."
 slug: 'pragmatic-uses-for-react-context'
 draft: false
 publishDate: '2019-07-24'

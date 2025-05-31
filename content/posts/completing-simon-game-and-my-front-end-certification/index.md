@@ -1,5 +1,6 @@
 ---
 title: 'Completing Simon Game and my Front End Certification'
+summary: "Final Free Code Camp project: building Simon Game in React while tackling timing challenges and component architecture."
 slug: 'completing-simon-game-and-my-front-end-certification'
 draft: false
 publishDate: '2017-08-27'
