@@ -10,3 +10,6 @@ new-category:
 
 new-tag:
 	hugo new tags/$(name)/_index.md
+
+new-series:
+	hugo new series/$(name)/_index.md
