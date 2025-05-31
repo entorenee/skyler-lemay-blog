@@ -13,10 +13,12 @@ This document outlines the systematic steps for preparing a blog post for public
 ### 2. Category Assignment
 - Suggest an appropriate category for the post
 - Reference `.claude/category-taxonomy.json` for the complete taxonomy system
+- See `.claude/blog-taxonomy-guide.md` for detailed category selection process
 
 ### 3. Tag Assignment
 - Suggest relevant tags for the post
 - Reference `.claude/tag-taxonomy.json` for available tags and usage patterns
+- See `.claude/blog-taxonomy-guide.md` for tag selection guidelines and best practices
 - Aim for 2-4 tags per post to maintain the current average
 
 ### 4. Description/Summary Management

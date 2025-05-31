@@ -4,21 +4,13 @@ This guide provides a systematic approach for applying categories and tags to bl
 
 ## Selecting a Category
 
-1. **Reference the taxonomy**: Use `@.claude/category-taxonomy.json` for the complete category taxonomy
+1. **Reference the taxonomy**: Use `.claude/category-taxonomy.json` for the complete category taxonomy
 2. **Select best fit**: Choose the category that best applies to the post's primary focus
 3. **Suggest new categories**: If none of the existing terms apply well, suggest a new category to create
 4. **Reclassify existing posts**: If a new category is created, examine existing posts to determine if any should be reclassified
 
-### Available Categories (9 total):
-- **Technical**: Pure technical tutorials, how-tos, tool guides
-- **Learning & Challenges**: Structured learning experiences, coding challenges  
-- **Personal Growth**: Self-reflection, personal development, life lessons
-- **Projects**: Project showcases, builds, creation stories
-- **Career Development**: Professional growth, workplace skills, leadership
-- **Identity & Intersectionality**: Nuanced identity work, social systems analysis
-- **Sports & Recreation**: Physical activities, cycling, endurance sports
-- **Creative Writing**: Poetry, artistic expression
-- **Resources**: Curated collections, link roundups
+### Category Selection Process:
+Reference `.claude/category-taxonomy.json` for complete category definitions, descriptions, and examples.
 
 ### Category Implementation Notes:
 - Categories with special characters use kebab-case directory names
@@ -28,7 +20,7 @@ This guide provides a systematic approach for applying categories and tags to bl
 
 ## Selecting Tags
 
-1. **Reference the taxonomy**: Use `@.claude/tag-taxonomy.json` for the complete tag taxonomy (46 unique tags)
+1. **Reference the taxonomy**: Use `.claude/tag-taxonomy.json` for the complete tag taxonomy (46 unique tags)
 2. **Select applicable tags**: Choose tags that best apply to the post content
 3. **Suggest new tags**: If additional tags would be beneficial, suggest new tags to create
 4. **Review impact**: Examine existing posts to determine if they would benefit from new tags
@@ -42,11 +34,8 @@ This guide provides a systematic approach for applying categories and tags to bl
 - General concept tags remain lowercase: `tooling`, `accessibility`, `learning`
 - Average 2.35 tags per post (aim for 2-4 tags per post)
 
-### Tag Usage Frequency:
-- **Most Used (10+ posts)**: `reflections`, `tooling`
-- **Frequently Used (5-8 posts)**: `transgender`, `gender`, `team-health`, `accessibility`, `psychological-safety`, `react`, `functional-programming`, `learning`
-- **Moderately Used (3-4 posts)**: `TypeScript`, `today-i-learned`, `GraphQL`, `JavaScript`, `poetry`, `retrospectives`, `react-hooks`, `gatsby`, `TypeScript-generics`, `testing`, `linting`, `community`, `creativity`, `systems-design`
-- **Less Common (1-2 posts)**: Various specialized tags
+### Tag Usage Reference:
+Reference `.claude/tag-taxonomy.json` for complete tag frequency data and usage patterns.
 
 ### Common Tag Combinations by Category:
 - **Technical posts**: Often include `tooling`, `testing`, `linting`, specific technologies (`react`, `TypeScript`, `JavaScript`)
@@ -57,8 +46,12 @@ This guide provides a systematic approach for applying categories and tags to bl
 
 ## After Completion
 
-1. **Update taxonomies**: Update `tag-taxonomy.json` and `category-taxonomy.json` if new terms were added
-2. **Verify consistency**: Ensure all related posts use consistent terminology
+1. **Update JSON files**: Always update the taxonomy JSON files to maintain accurate statistics and metadata:
+   - Update `category-taxonomy.json` with new post counts, percentages, and examples
+   - Update `tag-taxonomy.json` with new tag usage counts and frequency data
+   - Update metadata sections (totalPosts, lastUpdated, etc.)
+2. **Add new terms**: If new categories or tags were created, add them to the respective JSON files with proper definitions
+3. **Verify consistency**: Ensure all related posts use consistent terminology
 
 ## Implementation Format
 

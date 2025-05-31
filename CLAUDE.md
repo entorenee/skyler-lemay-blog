@@ -61,10 +61,14 @@ This is a Hugo static site generator blog using the PaperMod theme with several 
 - Production builds include minification and analytics
 - Static redirects handled via `/static/_redirects`
 
-## Content Taxonomy
+## Content Management
 
-For detailed guidance on applying categories and tags to blog posts, reference @.claude/blog-taxonomy-guide.md.
+### Publication Preparation
+For systematic steps to prepare posts for publication, reference .claude/prepare-post-for-publication.md.
+
+### Content Taxonomy
+For detailed guidance on applying categories and tags to blog posts, reference .claude/blog-taxonomy-guide.md.
 
 ### Quick Reference
-- **Categories**: Reference @.claude/category-taxonomy.json (9 categories total)
-- **Tags**: Reference @.claude/tag-taxonomy.json (46 unique tags)
+- **Categories**: Reference .claude/category-taxonomy.json (9 categories total)
+- **Tags**: Reference .claude/tag-taxonomy.json (46 unique tags)
