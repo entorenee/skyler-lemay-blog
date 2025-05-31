@@ -1,20 +1,23 @@
 ---
 title: 'Pragmatic Usage of AI in Content Creation'
 slug: 'pragmatic-usage-of-ai-in-content-creation'
-draft: true
+draft: false
 publishDate: '2025-06-02'
-categories: []
-tags: []
+categories: ['Technical']
+tags: ['AI', 'Systems Design', 'tooling', 'productivity', 'hugo']
+summary: 'How I used Claude Code to overhaul my blog taxonomy system, automate content categorization, and implement quality checks for my writing workflow.'
 ---
 As I have been writing more consistently, I've discovered some substantial use cases for selectively using AI in my writing process. I don't have an interest in AI for the writing process itself, but it is far more efficient around helping with the Information Architecture of my writing as well as some quality control checks where I've been too close to the material. This post will dive into how I used [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) to overhaul my categories and tags systems, how future posts get taxonomy terms added to them, and quality checks I've implemented as part of my publication process.
 
 ## Writing Information Architecture is Hard
 I started writing the first iteration of this blog way back in 2017. I was working in Facilities Management at the time, and was trying to switch careers while still working full time. It was a stressful 15 months, but the [process changed the trajectory of my life](/blog/the-439-day-journey-that-changed-my-life). I had limited experience writing before then, but I knew having posts in a respective category and with corresponding tags was beneficial with the discoverability of new content. As I continued writing over the next few years I'd add tags here and there, but there wasn't much strategy behind it. Some tags only applied to one post, and the categories were way too broad. While my goal was good in concept, the execution was pretty horrible. Pattern matching is one of my greatest strengths, but something about this particular flavor of pattern creation pinned those skills down.
 
-In 2023, I spun up a different blogging platform to house more of my social, ethical, and gender theory meets reality posts. I wanted to keep those separate from the technical posts at the time. These posts had slightly better categorization, but there were far fewer of them. After I [merged the two writing platforms into a brand new one](/blog/how-i-combined-two-blogging-platforms-in-20-hours), I knew that I wanted to revisit this overall issue to provide better discoverability of content. The problem was that I had a mess of an existing system, and still lacked the skills to clean up and refine it.
+In 2023, I spun up a different blogging platform to house more of my social, ethical, and gender theory meets reality posts. I wanted to keep those separate from the technical posts at the time. These posts had slightly better categorization, but there were far fewer of them. After I [merged the two writing platforms into a brand new one](/blog/how-i-combined-two-blogging-platforms-in-20-hours), I knew that I wanted to revisit this overall issue to provide better discoverability of content. The problem was that I had a mess of an existing system, and still lacked the skills to clean up and refine it. This is laughably apparent by the inability to even capture all of the tags in one screenshot. Somehow I had accummulated 105 tags! 😱
 
-TODO: Image of early category system
-TODO: Image of early tagging system
+![A screenshot of the initial 3 categories for the blog: Web Development, General Musings, and Linked List](images/old-categories.jpeg#center)
+![A screenshot of the first half the massive old tag system](images/old-tags-part-1.jpeg#center)
+![A screenshot of the second half the massive old tag system](images/old-tags-part-2.jpeg#center)
+
 ### Putting Claude to Work to Overhaul my System
 With my positive experiences using Claude to do the systems migration into the current iteration, I decided to try out having it suggest and implement a review of the current system. The task and goals were:
 
@@ -23,7 +26,10 @@ With my positive experiences using Claude to do the systems migration into the c
 * Review all of the current tags again, and clean up tags that weren't helpful or were only used once. This process was started with Claude and finished manually.
 * Start fresh and recommend a new means of categorizing content based on the existing catalog. Some of the previous categories may transfer over, but if they all get revamped that was fine.
 
-I got to work writing some prompts and cranking through the roughly 70 posts of content already in the system. Reading Markdown files and parsing frontmatter consistently is a time consuming and expensive process. As the system got refined, I took advantage of Claude's [memory management](https://docs.anthropic.com/en/docs/claude-code/memory) and created JSON files for the [category](https://github.com/entorenee/skyler-lemay-blog/blob/main/.claude/category-taxonomy.json) and [tag](https://github.com/entorenee/skyler-lemay-blog/blob/main/.claude/tag-taxonomy.json) taxonomy respectively. Claude also took advantage of this format to store the new systems for future posts before the existing ones were migrated. Equipped with a new data structure, it was time to [migrate all of the things](https://github.com/entorenee/skyler-lemay-blog/pull/2).
+I got to work writing some prompts and cranking through the roughly 70 posts of content already in the system. Reading Markdown files and parsing frontmatter consistently is a time consuming and expensive process. As the system got refined, I took advantage of Claude's [memory management](https://docs.anthropic.com/en/docs/claude-code/memory) and created JSON files for the [category](https://github.com/entorenee/skyler-lemay-blog/blob/main/.claude/category-taxonomy.json) and [tag](https://github.com/entorenee/skyler-lemay-blog/blob/main/.claude/tag-taxonomy.json) taxonomy respectively. Claude also took advantage of this format to store the new systems for future posts before the existing ones were migrated. Equipped with a new data structure, it was time to [migrate all of the things](https://github.com/entorenee/skyler-lemay-blog/pull/2). The raw numbers are:
+
+* Tags reduced from 105 to 47. This was a total reduction of 55% of cruft in the system. While there are a few tags remaining with a single post, they are intentionally left to align with future writing plans.
+* Categories increased by a factor of three from 3 to 9. This resolved the opposite problem where there was insufficent granularity on topics. This allows better grouping of topics for individuals to find related content.
 
 ![A screenshot of the updated and refined categories currently referenced on the website](images/updated-categories.jpeg#center)
 ![A screenshot of the updated and refined tags currently referenced on the website](images/updated-tags.jpeg#center)
@@ -61,6 +67,5 @@ With the latest issue captured and a growing complexity of steps to verify that 
 
 Time will tell how this continues to evolve. This post will be the first to undergo the latest iteration. However, the initial experience of reducing my cognitive load for adding a category and tags to a post has already had phenomenal dividends. A computer is much better at grouping together content; this allows me to focus on the writing process.
 
-TODO: Add Markdown footnotes
-[^1]:
-[^2]:
+[^1]: My overall intention was to remove one off tags. However, some single use tags were strategically left due to their alignment with short-term writing plans. It's a general guideline rather than a hard rule.
+[^2]: My current build step has multiple guards for publishing a post in production builds. If a post is marked as a draft it will never be included in a production build. If the post is not a draft, but has a `publishDate` in the future, it will also be excluded from a build. This enables me to work on future posts locally as well as queue up posts that are ready to publish on their respective dates.
