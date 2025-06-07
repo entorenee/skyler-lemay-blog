@@ -1,7 +1,6 @@
 ---
 title: 'Exciting Updates to the Site'
 summary: 'Updates to the site including comments via Comentario, newsletter enhancements, Buy Me a Coffee support, and privacy-focused Umami analytics—all built on FOSS principles.'
-description: 'Recent site improvements including self-hosted commenting system, newsletter functionality, optional support platform, and privacy-compliant analytics using open source solutions.'
 slug: 'exciting-updates-to-the-site'
 draft: false
 publishDate: '2025-06-07'
