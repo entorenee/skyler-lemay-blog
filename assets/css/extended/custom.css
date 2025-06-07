@@ -48,6 +48,28 @@ body.dark pre.mermaid {
   }
 }
 
+.buy-me-a-coffee-wrapper {
+  margin: 1.5rem 0 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  .bmc-btn {
+    min-width: unset;
+    height: unset;
+    padding: 0.5rem 1rem;
+  }
+
+  .bmc-btn-text {
+    font-family: unset !important;
+    font-size: 18px;
+  }
+}
+
 #newsletter-container .formkit-form {
   border: 1px solid var(--border);
   border-radius: var(--radius);
