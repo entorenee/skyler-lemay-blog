@@ -34,7 +34,7 @@ I see the person in front of me carrying a bag with a familiar company logo. I t
 
 > In my work, I use the coded gaze term as a reminder that the machines we built reflect the priorities, preferences, and even prejudices of those who have the power to shape technology. The coded gaze does not have to be explicit to do the job of oppression, including patriarchy and white supremacy, it is programmed into the fabric of society. Without intervention, those who have held power in the past continue to pass that power to those who are most like them. This does not have to be intentional to have a negative impact.
 > 
-> Dr. Joy Boulamwini, _Unmasking AI_
+> Dr. Joy Buolamwini, _Unmasking AI_
 
 The concept of structural systems of exclusion and oppression aren't anything new:
 * Criminal Justice Reform [continues to be an uphill battle](https://www.cbcfinc.org/blog/post-election-2024-the-continued-unraveling-of-criminal-justice-reform/).
