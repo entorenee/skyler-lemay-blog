@@ -7,6 +7,7 @@ draft: false
 publishDate: '2025-06-09'
 categories: ['resources']
 tags: ['ethics', 'security', 'systems-design', 'social-activism']
+series: ['Approachable Privacy and Security']
 ---
 I've been seeing a new manifestation of data brokers under the guise of helping connect people for hiring or recruiting. They are just as gross as other data brokers, and I would argue venture further into unethical use of personal identifiable information (PII) for how they utilize AI as part of the process.
 
