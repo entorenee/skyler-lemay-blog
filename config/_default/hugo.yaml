@@ -84,7 +84,7 @@ params:
       appendFilePath: true
 
   homeInfoParams:
-    title: "Engineer | Mentor | Athlete | Advocate"
+    title: "Engineer | Mentor | Athlete | Social Activist"
     content: |
       👋🏼 I'm Skyler, a Senior Software Engineer with a recent focus on backend architecture. I work primarily in TypeScript. I work across disciplines; we are all pushing for the same goal. I thrive when mentoring and empowering engineers to do their best work as we solve complex problems together.
 
