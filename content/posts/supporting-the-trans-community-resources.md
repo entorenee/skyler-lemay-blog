@@ -10,6 +10,7 @@ tags:
   - transgender
   - inclusion
   - community
+  - social-activism
 ---
 > In a male-centered gender hierarchy, where it is assumed that men are better than women and that masculinity is superior to femininity, there is no greater perceived threat than the existence of trans women, who despite being born male and inheriting male privilege "choose" to be female instead. By embracing our own femaleness and femininity, we, in a sense, cast a shadow of doubt over the supposed supremacy of maleness and masculinity.
 > 

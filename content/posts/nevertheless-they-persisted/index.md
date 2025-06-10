@@ -5,7 +5,7 @@ slug: 'nevertheless-they-persisted'
 draft: false
 publishDate: '2025-01-30'
 categories: ["identity-and-intersectionality"]
-tags: ["gender", "transgender", "history"]
+tags: ["gender", "transgender", "history", "social-activism"]
 ---
 {{< figure
   src="images/pain-graphic.jpg"

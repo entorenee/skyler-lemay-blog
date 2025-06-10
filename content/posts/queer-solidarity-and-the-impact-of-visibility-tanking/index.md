@@ -5,7 +5,7 @@ slug: 'queer-solidarity-and-the-impact-of-visibility-tanking'
 draft: false
 publishDate: '2025-01-13'
 categories: ["identity-and-intersectionality"]
-tags: ['history', 'transgender', 'gender']
+tags: ['history', 'transgender', 'gender', 'social-activism']
 ---
 {{< figure
   src="images/kitty-donor.jpeg"

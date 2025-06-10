@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalUniqueTags": 50,
+    "totalUniqueTags": 47,
     "totalTagUsages": 180,
     "averageTagsPerPost": 2.81,
     "lastUpdated": "2025-01-31",
@@ -63,7 +63,8 @@
       "vue": 1,
       "hugo": 1,
       "presentations": 1,
-      "security": 1
+      "security": 1,
+      "social-activism": 1
     }
   },
   "categories": {
@@ -87,7 +88,7 @@
       "community", "habit-building", "productivity", "themes"
     ],
     "accessibility": [
-      "accessibility", "ethics"
+      "accessibility", "ethics", "social-activism"
     ],
     "projects": [
       "projects"

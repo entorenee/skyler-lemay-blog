@@ -5,7 +5,7 @@ slug: who-are-we-excluding-in-our-systems-designs
 draft: false
 publishDate: 2025-05-22
 categories: ['Technical']
-tags: ["accessibility", "inclusion", "ethics", "systems-design", "AI"]
+tags: ["accessibility", "inclusion", "ethics", "systems-design", "AI", "social-activism"]
 ---
 {{< figure
   src="images/multicolored-containers.jpg"

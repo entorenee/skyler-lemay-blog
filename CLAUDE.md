@@ -71,4 +71,4 @@ For detailed guidance on applying categories and tags to blog posts, reference .
 
 ### Quick Reference
 - **Categories**: Reference .claude/category-taxonomy.json (9 categories total)
-- **Tags**: Reference .claude/tag-taxonomy.json (46 unique tags)
+- **Tags**: Reference .claude/tag-taxonomy.json (47 unique tags)

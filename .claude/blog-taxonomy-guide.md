@@ -20,7 +20,7 @@ Reference `.claude/category-taxonomy.json` for complete category definitions, de
 
 ## Selecting Tags
 
-1. **Reference the taxonomy**: Use `.claude/tag-taxonomy.json` for the complete tag taxonomy (50 unique tags)
+1. **Reference the taxonomy**: Use `.claude/tag-taxonomy.json` for the complete tag taxonomy (47 unique tags)
 2. **Select applicable tags**: Choose tags that best apply to the post content
 3. **Suggest new tags**: If additional tags would be beneficial, suggest new tags to create
 4. **Review impact**: Examine existing posts to determine if they would benefit from new tags
@@ -42,7 +42,7 @@ Reference `.claude/tag-taxonomy.json` for complete tag frequency data and usage 
 - **Personal Growth posts**: Often include `reflections`, may include `learning`, `neurodiversity`, `transgender`, `gender`
 - **Projects posts**: Often include technology tags (`react`, `JavaScript`, `gatsby`), `learning`
 - **Career Development posts**: Often include `team-health`, `psychological-safety`, `leadership`, `retrospectives`
-- **Identity & Intersectionality posts**: Often include `transgender`, `gender`, may include `reflections`, `neurodiversity`
+- **Identity & Intersectionality posts**: Often include `transgender`, `gender`, may include `reflections`, `neurodiversity`, `social-activism`
 
 ## Creating New Category Index Pages
 
