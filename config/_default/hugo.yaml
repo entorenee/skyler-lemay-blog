@@ -71,6 +71,7 @@ params:
   author: "Skyler Lemay"
   keywords: ["Software Engineer", "Technical Leadership", "TypeScript", "JavaScript", "React", "Backend Architecture", "Endurance Sports", "Cycling", "Running", "Trans Athlete", "Neurodivergent", "Intersectional Identities", "Universal Design", "Accessibility", "Inclusion", "Team Leadership", "Mentoring", "Technical Debt", "Agile Development", "Functional Programming", "AI Tools", "Developer Experience", "Psychological Safety", "Code Quality", "Testing", "Web Development", "Career Development", "Personal Growth", "Social Activism", "LGBTQ+", "Tech Blog"]
   ShowShareButtons: true
+  ShowRssButtonInSectionTermList: true
   ShowReadingTime: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
