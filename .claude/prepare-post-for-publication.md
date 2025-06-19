@@ -8,6 +8,7 @@ This document outlines the systematic steps for preparing a blog post for public
 - Review the entire content of the post for clarity, accuracy, and completeness
 - Ensure the post provides value and aligns with blog quality standards
 - **Check for invalid or empty links**: Verify all URLs are functional and properly formatted
+- **Validate internal page links**: Apply internal link validation checks (see Internal Link Validation section below)
 - **Check for TODO markers**: Flag any instances of "TODO" in the content - this typically indicates the post is not ready for publication
 
 ### 2. Category Assignment
@@ -34,9 +35,30 @@ This document outlines the systematic steps for preparing a blog post for public
 - Wait for clear confirmation before making any changes to draft status
 - This step prevents accidental publication of incomplete content
 
+## Internal Link Validation
+
+When checking internal Markdown page links (not image links), apply these validation rules:
+
+### Link Format Requirements
+- **Start with forward slash**: Internal page links must begin with `/` (e.g., `/blog/post-name/`)
+- **End with forward slash**: Links must conclude with `/` for pretty URLs and consistent search engine results
+- **Exclude image links**: These validation rules apply only to page links, not image references
+
+### Link Validation Process
+1. **Check dev server**: Confirm the development server is running at `http://localhost:1313`
+2. **Test each link**: Validate that each internal link renders successfully by accessing `http://localhost:1313/link`
+3. **Verify response**: Ensure the page loads with proper HTML structure (contains `<title>` and `<h1>` tags)
+4. **Check for 404s**: Look for pages with `class="not-found"` which indicate broken links
+
+### Common Link Issues
+- **Missing trailing slash**: `/blog/post-name` should be `/blog/post-name/`
+- **Incorrect slugs**: Verify the URL matches the actual post slug in frontmatter
+- **Typos in URLs**: Check for spelling errors in link paths
+
 ## Quality Checklist
 - [ ] Content reviewed and polished
 - [ ] No invalid or empty links
+- [ ] Internal page links validated against localhost:1313
 - [ ] No TODO markers present
 - [ ] Category assigned from taxonomy
 - [ ] Tags assigned from taxonomy (2-4 recommended)
