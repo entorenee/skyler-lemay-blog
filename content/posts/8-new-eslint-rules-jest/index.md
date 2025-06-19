@@ -9,7 +9,7 @@ tags: ["linting","tooling","testing"]
 ---
 ![8 New ESLint Rules - Jest](images/markus-spiske-stacked-stones.jpg#center)
 
-Maintaining an ESLint config has several benefits, a significant one being seeing new rules as they become available. ESLint [shapes the way we use JavaScript](/blog/2019/05/23/shaping-javascript-usage-with-eslint), and now TypeScript too. As I prepared for the latest release of my own ESLint config, I became aware of several new and helpful rules for testing with Jest. In this post, I'll dive into what some of these new rules are and some considerations for why they aren't added to the `recommended` options.
+Maintaining an ESLint config has several benefits, a significant one being seeing new rules as they become available. ESLint [shapes the way we use JavaScript](/blog/shaping-javascript-usage-with-eslint/), and now TypeScript too. As I prepared for the latest release of my own ESLint config, I became aware of several new and helpful rules for testing with Jest. In this post, I'll dive into what some of these new rules are and some considerations for why they aren't added to the `recommended` options.
 
 ## The interesting balance of ESLint semver
 

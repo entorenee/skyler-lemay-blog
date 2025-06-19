@@ -9,7 +9,7 @@ tags: ["retrospectives","reflections"]
 ---
 ![Personal Retrospective: Q3 2019](images/meiying-ng-iB7gjOsLrEQ-unsplash.jpg#center)
 
-Back in August, I completed my first [quarterly personal retrospective](/blog/2019/08/05/personal-retrospective-q2-2019) as a means of being more intentional with life. I believe increased introspection allows for finer course corrections and recognizing the milestones of accomplishments along the way. For me, a setting intentions allows me to more proactively engage with life, rather than having it happen to me. For more details on the why, please check out the original blog post.
+Back in August, I completed my first [quarterly personal retrospective](/blog/personal-retrospective-q2-2019/) as a means of being more intentional with life. I believe increased introspection allows for finer course corrections and recognizing the milestones of accomplishments along the way. For me, a setting intentions allows me to more proactively engage with life, rather than having it happen to me. For more details on the why, please check out the original blog post.
 
 Q3 saw a lot of progress in the focus areas I had set, with some exceptions. In this retrospective I want to revisit the year end goals, what went well in Q3, and what I want to invest in for Q4.
 

@@ -11,7 +11,7 @@ tags: ["tooling","npm","productivity","code-quality","JavaScript"]
 
 > I have moved most of my open source projects to Renovate, and found I simultaneously spend less time focusing on dependency updates and have more current dependencies.
 
-Over the past few months I have been moving most of my projects to [Renovate](https://renovatebot.com/) for managing dependencies. From my experience, Renovate offers several key benefits over other solutions such as Greenkeeper and Dependabot. This blog post will focus on what Renovate is and what differentiates it from other dependency management solutions. For a higher level overview on dependency management, I recommend checking out [how to manage dependencies with confidence](/blog/2019/02/25/how-to-manage-dependencies-with-confidence).
+Over the past few months I have been moving most of my projects to [Renovate](https://renovatebot.com/) for managing dependencies. From my experience, Renovate offers several key benefits over other solutions such as Greenkeeper and Dependabot. This blog post will focus on what Renovate is and what differentiates it from other dependency management solutions. For a higher level overview on dependency management, I recommend checking out [how to manage dependencies with confidence](/blog/how-to-manage-dependencies-with-confidence/).
 
 ## What is Renovate
 

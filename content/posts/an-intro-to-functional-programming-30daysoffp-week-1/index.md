@@ -10,7 +10,7 @@ series: ['30 Days of Functional Programming']
 ---
 ![An intro to Functional Programming - 30DaysofFP Week 1](images/rope-meshwork.jpg#center)
 
-1.5 weeks ago I set out to learn more about Functional Programming with a [30 day challenge](/blog/2019/08/01/30-days-of-functional-programming). I started knowing little about functional programming, apart from the various array methods within JavaScript. Kyle Simpson's [Functional Light JavaScript](https://leanpub.com/fljs) book, has been a great introduction of concepts and practical application. For those interested, the book can also be read for free on [GitHub](https://github.com/getify/Functional-Light-JS/tree/master/manuscript).
+1.5 weeks ago I set out to learn more about Functional Programming with a [30 day challenge](/blog/30-days-of-functional-programming/). I started knowing little about functional programming, apart from the various array methods within JavaScript. Kyle Simpson's [Functional Light JavaScript](https://leanpub.com/fljs) book, has been a great introduction of concepts and practical application. For those interested, the book can also be read for free on [GitHub](https://github.com/getify/Functional-Light-JS/tree/master/manuscript).
 
 In this post, I share some of the practical concepts of functional programming I have learned since starting this challenge, as well as refactor a code example using functional composition. There's lots of code examples and functional goodies along the way.  **Note:** The code snippets include several functional programming helper functions. An example implementation of these utilities is included in the snippets, but can also be found in libraries such as [Ramda](https://ramdajs.com/).
 

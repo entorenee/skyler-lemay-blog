@@ -68,8 +68,8 @@ A few disclaimers and points of perspective:
 
 ## Personal Experiences
 
-- **[Nevertheless They Persisted](/blog/nevertheless-they-persisted):** A spoken word piece by Skyler Lemay about her experiences navigating the current state of transphobia
-- **[Chaos and Beauty Through Dissolution](/blog/chaos-and-beauty-through-dissolution):** A short summary of how transformational engaging in identity work has been. Written by Skyler Lemay
+- **[Nevertheless They Persisted](/blog/nevertheless-they-persisted/):** A spoken word piece by Skyler Lemay about her experiences navigating the current state of transphobia
+- **[Chaos and Beauty Through Dissolution](/blog/chaos-and-beauty-through-dissolution/):** A short summary of how transformational engaging in identity work has been. Written by Skyler Lemay
 - **[The Euphoria of Elliot Page](https://www.esquire.com/entertainment/tv/a40011366/elliot-page-umbrella-academy-euphoria/):** An Esquire article with Elliot on his transition and how The Umbrella Academy producers supported his transition. His memoir Pageboy is also fantastic.
 - **[I Was Socialized Trans](https://aninjusticemag.com/i-was-socialized-trans-b2fa870866a4):** An excellent piece on how the author was not socialized male, and the trauma of not acknowledging trans youth identities
 

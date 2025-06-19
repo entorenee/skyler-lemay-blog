@@ -12,8 +12,8 @@ series: ["Diving into TypeScript Generics"]
 
 TypeScript utility types provide built in type composition tools to generate new types. They capitalize on TypeScript generic types to enable this functionality. In the third part of this series, we will be covering the `Extract`, `Exclude`, and `NonNullable` utilities. For more coverage on other utility types, check out the previous two posts in the series.
 
-- [TypeScript Utility Types Part 1: Partial, Pick, and Omit](/blog/2020/04/27/typescript-utility-types-part-1-partial-pick-and-omit)
-- [TypeScript Utility Types Part 2: Record, Readonly, & Required](/blog/2020/05/04/typescript-utility-types-part-2-record-readonly-and-required)
+- [TypeScript Utility Types Part 1: Partial, Pick, and Omit](/blog/typescript-utility-types-part-1-partial-pick-and-omit/)
+- [TypeScript Utility Types Part 2: Record, Readonly, & Required](/blog/typescript-utility-types-part-2-record-readonly-required/)
 
 ## Extract
 

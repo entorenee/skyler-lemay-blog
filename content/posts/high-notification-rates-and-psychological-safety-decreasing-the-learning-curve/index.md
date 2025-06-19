@@ -11,7 +11,7 @@ tags: ["team-health","psychological-safety"]
 
 > "The fascinating thing is, however, these awkward, painful interactions generate the highly cohesive, trusting behavior necessary for smooth cooperation." ~ Daniel Coyle
 
-Last week my colleague, Mike Crittenden, wrote a post on how [good teams are noisy](https://critter.blog/2020/12/15/good-teams-are-noisy/). In it he discusses the concept of successful teams having high notification rates and tangible benefits he has observed. Interestingly enough, last week also brought a tangible example of how high notification rates and [psychological safety](/blog/2020/12/07/the-importance-of-creating-psychological-safety) can help reduce the learning curve.
+Last week my colleague, Mike Crittenden, wrote a post on how [good teams are noisy](https://critter.blog/2020/12/15/good-teams-are-noisy/). In it he discusses the concept of successful teams having high notification rates and tangible benefits he has observed. Interestingly enough, last week also brought a tangible example of how high notification rates and [psychological safety](/blog/the-importance-of-creating-psychological-safety/) can help reduce the learning curve.
 
 ## What are Notifications?
 
@@ -27,4 +27,4 @@ Another developer contacted me saying that they had expected to pass in an image
 
 At first blush this may not seem like much, or even be considered expected behavior. However, this could have also taken a vastly different approach. The other developer could have opened a bug ticket, creating an extended feedback loop which would have greatly delayed the integration. Instead these quick communication bursts were able to capture what they needed, what I was able to immediately sort out, clarifying questions, communicating uncertainty, and finally a prompt resolution to the problem at hand. This high notification rate and the safety of not knowing the answer reduced the feedback loop.
 
-Circling back to Mike's post, what is the notification rate like on your teams? Successful teams are often noisy with a significant rate of these humble notifications. Engaging in this practice is a good way to participate in the [vulnerability loop](/blog/2020/12/11/what-mistakes-did-you-make-this-sprint). Daniel Coyle sums up their impact nicely, "The fascinating thing is, however, these awkward, painful interactions generate the highly cohesive, trusting behavior necessary for smooth cooperation."
+Circling back to Mike's post, what is the notification rate like on your teams? Successful teams are often noisy with a significant rate of these humble notifications. Engaging in this practice is a good way to participate in the [vulnerability loop](/blog/what-mistakes-did-you-make-this-sprint/). Daniel Coyle sums up their impact nicely, "The fascinating thing is, however, these awkward, painful interactions generate the highly cohesive, trusting behavior necessary for smooth cooperation."

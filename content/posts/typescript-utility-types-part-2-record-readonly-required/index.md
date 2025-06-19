@@ -10,7 +10,7 @@ series: ["Diving into TypeScript Generics"]
 ---
 ![TypeScript Utility Types Part 2: Record, Readonly, & Required](images/reflective-architecture-perspective.jpg#center)
 
-TypeScript utility types provide built in type composition tools to generate new types. They capitalize on TypeScript generic types to enable this functionality. Previously we talked about the `Partial`, `Pick`, and `Omit` types as well as utility types as a concept in [part 1 of this series](/blog/2020/04/27/typescript-utility-types-part-1-partial-pick-and-omit). In this post we will dive into three more of the utility types provided by TypeScript: `Record`, `Readonly`, and `Required`.
+TypeScript utility types provide built in type composition tools to generate new types. They capitalize on TypeScript generic types to enable this functionality. Previously we talked about the `Partial`, `Pick`, and `Omit` types as well as utility types as a concept in [part 1 of this series](/blog/typescript-utility-types-part-1-partial-pick-and-omit/). In this post we will dive into three more of the utility types provided by TypeScript: `Record`, `Readonly`, and `Required`.
 
 ## Record
 
