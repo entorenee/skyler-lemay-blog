@@ -96,6 +96,8 @@ params:
       url: https://buymeacoffee.com/skylerlemay
     - name: github
       url: https://github.com/entorenee
+    - name: key
+      url: https://skylerlemay.com/gpg-pub.asc
     - name: linkedin
       url: https://www.linkedin.com/in/skylerlemay/
     - name: rss
