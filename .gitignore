@@ -4,3 +4,4 @@
 .hugo_build.lock
 /public
 resources/
+.claude/settings.local.json
