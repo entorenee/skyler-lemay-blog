@@ -10,7 +10,6 @@ cover:
 categories: ['sports-and-recreation']
 tags: ['cycling', 'ultra-endurance', 'reflections']
 ---
-
 I'm currently 12 days away from the biggest event and race I have ever done. The [Swift Summit 200](https://www.swiftsummitnw.com/200-100) features 326.4km of distance and 3,229m of elevation. It's likely to be hot, and potentially smokey. Last Fall I completed my first 300km [ultra-endurance ride](/blog/exploring-oregons-3-capes-scenic) to the Coast and back, but that was a bit less distance, 700 meters less elevation, cooler weather, and my fitness level was higher.
 
 This is the last year for the Swift Summit, and it has been a big goal to complete the 200 mile course. Almost all of my training the past month has been focused on preparing for the race, dialing in bike fit, testing different strategies, and more. I realized late last night that I finally _know_ what an A race is.[^1] It has been interesting to see and experience how many different avenues I have conciously or even subconciously started to optimize in preparation for this massive event.
@@ -29,15 +28,14 @@ This is only my second season racing, and life events including a broken thumb l
 - Doing physics calculations (thanks to the help of some online tools) to select the right gearing to optimize for the climbs and sacrifice top end speed. This isn't a sprint race, nor do I need to go fast on the flats. It's ok if I spin out on the descents, and should stay in zone 2 for those as well.
 
 {{< gallery
-match="images/gallery-\*"
-sortOrder="asc"
-rowHeight="175"
-margins="5"
-thumbnailResizeOptions="600x600 q90 Lanczos"
-previewType="blur"
-embedPreview=true
-loadJQuery=true
-
+	match="images/gallery-*"
+	sortOrder="asc"
+	rowHeight="175"
+	margins="5"
+	thumbnailResizeOptions="600x600 q90 Lanczos"
+	previewType="blur"
+	embedPreview=true
+	loadJQuery=true
 >}}
 
 ## Dialing in Some Final Tweaks and Test Plans
